@@ -1,0 +1,14 @@
+---
+title: "Kort Alexander"
+image: "face.jpg"
+site: distill::distill_website
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/kort-alexander-750364228/"
+  - label: Email
+    url: "mailto:kortalexander@bren.ucsb.edu"
+output:
+  postcards::trestles
+---
+ 
+I am a master's student at the Bren School of Environmental Science and Management at UC Santa Barbara, specializing in Coastal Marine Resources Management. I am passionate about marine conservation and protecting marine ecosystems from the effects of climate change, overfishing, pollution, and coastal development worldwide.
