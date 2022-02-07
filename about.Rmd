@@ -1,10 +1,9 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "About me"
+image: "freedive.jpg"
+site: distill::distill_website
+output:
+  postcards::trestles
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
+I was born and raised in San Angelo, Texas. I graduated summa cum laude from Texas Tech University in 2021 with a Bachelor of Science degree in Biology. I grew up with a love of nature and a fascination with living things. During my time as an undergraduate, I was involved with research projects including analyzing acoustic data from bats in Southeast Asia, collecting and cataloging insects from around Lubbock, Texas, and studying environmental plant DNA. In my senior year I helped TA for an introductory biology lab and volunteered to co-teach a high school course on energy and sustainability. I also had the opportunity to study abroad in the Turks and Caicos Islands, where my passion for marine conservation blossomed through field classes in tropical marine ecology and marine resource management. Seeing how the local coral reefs and mangrove forests were so important to the community yet also so vulnerable to threats like climate change and overfishing inspired me to strive towards a career in environmental protection. By enrolling at Bren and pursuing a specialization in Coastal Marine Resource Management, I hope to gain the skills necessary to preserve marine ecosystems for the benefit of coastal communities and global biodiversity.
