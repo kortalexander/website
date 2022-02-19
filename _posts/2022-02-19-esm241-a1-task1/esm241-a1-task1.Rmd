@@ -1,0 +1,89 @@
+---
+title: "Mountain yellow-legged frogs in the southern Sierra Nevada"
+description: |
+  Data visualization example
+date: 2022-02-19
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+# Overview
+
+This code reads in data on amphibians in the Sierra Nevada from the Sierra Lakes Inventory Project and creates two visualizations based on observations of *Rana muscosa*.
+
+# Setup
+
+```{r setup, message = FALSE, warning = FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+
+library(readxl)
+library(tidyverse)
+library(here)
+library(lubridate)
+library(paletteer)
+library(patchwork)
+```
+
+# Data input
+
+```{r}
+sierra_amphibians <- read_excel(here("data", "sierra_amphibians.xlsx"))
+```
+
+# Data wrangling
+
+```{r}
+sierra_amphibians <- sierra_amphibians %>% 
+  mutate(survey_date = ymd(survey_date)) %>% 
+  mutate(year = year(survey_date))
+```
+
+# Data visualization
+
+### Mountain yellow-legged frog counts by year and life stage
+
+```{r}
+ramu_counts <- sierra_amphibians %>% 
+  filter(amphibian_species == "RAMU") %>% 
+  filter(amphibian_life_stage != "EggMass") %>% 
+  filter(amphibian_state == "Alive") %>% 
+  group_by(year, amphibian_life_stage) %>% 
+  summarize(obs_count = n(), total = sum(amphibian_number))
+
+p1 <- ggplot(ramu_counts, aes(x = year, y = total, fill = amphibian_life_stage)) +
+  geom_bar(stat = "identity") +
+  scale_x_discrete(limits = c(1995, 1996, 1997, 2000, 2001, 2002)) +
+  scale_fill_paletteer_d("calecopal::sierra2") +
+  labs(x = "Year", y = "Total individuals observed", fill = "Life stage") +
+  theme_minimal() +
+  theme(legend.position = c(0.3, 0.7), axis.text = element_text(size = 8), legend.background = element_rect(fill = "white"))
+```
+
+### Top 5 lakes by observations of mountain yellow-legged frog adults and subadults
+
+```{r}
+ramu_adults_and_subadults <- sierra_amphibians %>% 
+  filter(amphibian_species == "RAMU") %>% 
+  filter(amphibian_life_stage %in% c("Adult", "SubAdult")) %>% 
+  filter(amphibian_state == "Alive") %>% 
+  mutate(lake_id = paste("Lake", lake_id)) %>% 
+  group_by(lake_id) %>% 
+  summarize(count = sum(amphibian_number)) %>% 
+  slice_max(order_by = count, n = 5)
+
+p2 <- ggplot(ramu_adults_and_subadults, aes(y = fct_reorder(lake_id, count), x = count, fill = "red")) +
+  geom_col() +
+  labs(y = "", x = "Total adults and subadults observed") +
+  scale_fill_paletteer_d("calecopal::sierra1") +
+  theme_minimal() +
+  theme(legend.position = "none")
+
+p1 + p2
+```
+
+**Figure 1.** *Rana muscosa* observed in lakes in the southern Sierra Nevada, 1995-1997 and 2000-2002. Left panel shows number of individuals observed across all lakes by year and life stage. Right panel shows the 5 lakes with the most adults and subadults observed across all years. Both exclude observations of dead individuals. Data: Knapp et al. 2020.
+
+# Citations
+Data citation: Knapp, R.A., C. Pavelka, E.E. Hegeman, and T.C. Smith. 2020. The Sierra Lakes Inventory Project: Non-Native fish and community composition of lakes and ponds in the Sierra Nevada, California ver 2. Environmental Data Initiative. https://doi.org/10.6073/pasta/d835832d7fd00d9e4466e44eea87fab3

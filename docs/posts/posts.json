@@ -1,19 +1,26 @@
 [
   {
+    "path": "posts/2022-02-19-esm241-a1-task1/",
+    "title": "Mountain yellow-legged frogs in the southern Sierra Nevada",
+    "description": "Data visualization example",
+    "author": [],
+    "date": "2022-02-19",
+    "categories": [],
+    "contents": "\r\nOverview\r\nThis code reads in data on amphibians in the Sierra Nevada from the Sierra Lakes Inventory Project and creates two visualizations based on observations of Rana muscosa.\r\nSetup\r\n\r\n\r\nknitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)\r\n\r\nlibrary(readxl)\r\nlibrary(tidyverse)\r\nlibrary(here)\r\nlibrary(lubridate)\r\nlibrary(paletteer)\r\nlibrary(patchwork)\r\n\r\n\r\n\r\nData input\r\n\r\n\r\nsierra_amphibians <- read_excel(here(\"data\", \"sierra_amphibians.xlsx\"))\r\n\r\n\r\n\r\nData wrangling\r\n\r\n\r\nsierra_amphibians <- sierra_amphibians %>% \r\n  mutate(survey_date = ymd(survey_date)) %>% \r\n  mutate(year = year(survey_date))\r\n\r\n\r\n\r\nData visualization\r\nMountain yellow-legged frog counts by year and life stage\r\n\r\n\r\nramu_counts <- sierra_amphibians %>% \r\n  filter(amphibian_species == \"RAMU\") %>% \r\n  filter(amphibian_life_stage != \"EggMass\") %>% \r\n  filter(amphibian_state == \"Alive\") %>% \r\n  group_by(year, amphibian_life_stage) %>% \r\n  summarize(obs_count = n(), total = sum(amphibian_number))\r\n\r\np1 <- ggplot(ramu_counts, aes(x = year, y = total, fill = amphibian_life_stage)) +\r\n  geom_bar(stat = \"identity\") +\r\n  scale_x_discrete(limits = c(1995, 1996, 1997, 2000, 2001, 2002)) +\r\n  scale_fill_paletteer_d(\"calecopal::sierra2\") +\r\n  labs(x = \"Year\", y = \"Total individuals observed\", fill = \"Life stage\") +\r\n  theme_minimal() +\r\n  theme(legend.position = c(0.3, 0.7), axis.text = element_text(size = 8), legend.background = element_rect(fill = \"white\"))\r\n\r\n\r\n\r\nTop 5 lakes by observations of mountain yellow-legged frog adults and subadults\r\n\r\n\r\nramu_adults_and_subadults <- sierra_amphibians %>% \r\n  filter(amphibian_species == \"RAMU\") %>% \r\n  filter(amphibian_life_stage %in% c(\"Adult\", \"SubAdult\")) %>% \r\n  filter(amphibian_state == \"Alive\") %>% \r\n  mutate(lake_id = paste(\"Lake\", lake_id)) %>% \r\n  group_by(lake_id) %>% \r\n  summarize(count = sum(amphibian_number)) %>% \r\n  slice_max(order_by = count, n = 5)\r\n\r\np2 <- ggplot(ramu_adults_and_subadults, aes(y = fct_reorder(lake_id, count), x = count, fill = \"red\")) +\r\n  geom_col() +\r\n  labs(y = \"\", x = \"Total adults and subadults observed\") +\r\n  scale_fill_paletteer_d(\"calecopal::sierra1\") +\r\n  theme_minimal() +\r\n  theme(legend.position = \"none\")\r\n\r\np1 + p2\r\n\r\n\r\n\r\n\r\nFigure 1. Rana muscosa observed in lakes in the southern Sierra Nevada, 1995-1997 and 2000-2002. Left panel shows number of individuals observed across all lakes by year and life stage. Right panel shows the 5 lakes with the most adults and subadults observed across all years. Both exclude observations of dead individuals. Data: Knapp et al. 2020.\r\nCitations\r\nData citation: Knapp, R.A., C. Pavelka, E.E. Hegeman, and T.C. Smith. 2020. The Sierra Lakes Inventory Project: Non-Native fish and community composition of lakes and ponds in the Sierra Nevada, California ver 2. Environmental Data Initiative. https://doi.org/10.6073/pasta/d835832d7fd00d9e4466e44eea87fab3\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-02-19-esm241-a1-task1/esm241-a1-task1_files/figure-html5/unnamed-chunk-4-1.png",
+    "last_modified": "2022-02-19T13:57:39-08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2022-02-07-welcome/",
-    "title": "welcome",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Unknown",
-        "url": {}
-      }
-    ],
+    "title": "Welcome!",
+    "description": "An introduction to the blog",
+    "author": [],
     "date": "2022-02-07",
     "categories": [],
-    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "contents": "\r\nFollow along here for data science projects, life updates, and Willow pics. Oh look, here’s one now!\r\nThe dingo herself\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-02-07T14:09:52-08:00",
+    "last_modified": "2022-02-19T13:58:44-08:00",
     "input_file": {}
   }
 ]
