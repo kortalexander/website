@@ -1,0 +1,123 @@
+---
+title: "Binary logistic regression"
+description: |
+  Florida palmetto species
+date: 2022-03-13
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+# Overview
+
+This code will use binary logistic regression to test the feasibility of using variables plant height, canopy length, canopy width, and number of green leaves to classify whether a palmetto is species *Serenoa repens* or *Sabal etonia*.
+
+Data citation: Abrahamson, W.G. 2019. Survival, growth and biomass estimates of two dominant palmetto species of south-central Florida from 1981 - 2017, ongoing at 5-year intervals ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/f2f96ec76fbbd4b9db431c79a770c4d5
+
+# Setup
+
+```{r setup, include=TRUE, message=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+
+library(tidyverse)
+library(here)
+library(GGally)
+library(patchwork)
+library(broom)
+library(kableExtra)
+library(caret)
+```
+
+# Data input and wrangling
+
+```{r}
+palmetto <- read_csv(here("data", "palmetto.csv")) %>% 
+  select(species, height, length, width, green_lvs) %>% 
+  drop_na() %>% 
+  mutate(species_name = case_when(species == 1 ~ "Serenoa repens",
+                                  species == 2 ~ "Sabal etonia")) %>% 
+  mutate(species_name = as.factor(species_name))
+```
+
+# Data visualization
+
+```{r}
+plot1 <- ggplot(palmetto, aes(x = height, y = length)) +
+  geom_point(aes(color = species_name), size = 1, show.legend = FALSE) +
+  labs(x = "Maximum height (cm)", y = "Maximum canopy length (cm)") +
+  theme_minimal()
+
+plot2 <- ggplot(palmetto, aes(x = height, y = width)) +
+  geom_point(aes(color = species_name), size = 1) +
+  labs(x = "Maximum height (cm)", y = "Maximum canopy width (cm)", color = "Species") +
+  theme_minimal()
+
+plot1 + plot2
+```
+
+**Figure 1.** Canopy length and width of Florida palmettos by height and species. It is somewhat easier to distinguish species based on canopy length than width.
+
+```{r}
+ggplot(palmetto, aes(x = species_name, y = green_lvs)) +
+  geom_boxplot() +
+  labs(x = "Species", y = "Number of green leaves") +
+  theme_minimal()
+```
+
+**Figure 2.** *Serenoa repens* tends to have more green leaves than *Sabal etonia*.
+
+# Binomial logistic regression and cross validation
+
+```{r}
+f1 <- species_name ~ height + length + width + green_lvs
+f2 <- species_name ~ height + width + green_lvs
+
+set.seed(42)
+
+tr_ctrl <- trainControl(method = 'repeatedcv', repeats = 10, number = 10)
+
+### train the model
+cv_training_model1 <- train(f1, data = palmetto,
+                method = "glm", family = "binomial",
+                trControl = tr_ctrl)
+
+cv_training_model2 <- train(f2, data = palmetto,
+                method = "glm", family = "binomial",
+                trControl = tr_ctrl)
+
+blr_model1 <- glm(formula = f1, data = palmetto, family = "binomial")
+blr_model2 <- glm(formula = f2, data = palmetto, family = "binomial")
+```
+
+Based on 10 repeats of 10-fold cross validation, the model that includes canopy length has a higher classification accuracy than the one without canopy length.
+
+# Model results
+
+```{r}
+blr_model1_table <- tidy(blr_model1) %>% 
+  select(-statistic) %>% 
+  mutate(p.value = ifelse(p.value < 0.001, "< 0.001"))
+
+colnames(blr_model1_table) <- c("Term", "Estimate of coefficient", "Standard error", "p value")
+kable(blr_model1_table, caption = "Table 1. Parameters of binomial logistic regression model.") %>% 
+  kable_styling("striped")
+```
+
+
+```{r}
+blr_model1_prob <- augment(blr_model1, type.predict = "response") %>% 
+  mutate(predicted_sp = case_when(.fitted > 0.5 ~ "Serenoa repens",
+                                  .fitted < 0.5 ~ "Sabal etonia"))
+blr_model1_grouped <- blr_model1_prob %>% 
+  group_by(species_name, predicted_sp) %>% 
+  summarize(count = n())
+
+final_table <- tribble(~Species, ~correct, ~incorrect, ~percent,
+                       "Sabal etonia", blr_model1_grouped$count[1], blr_model1_grouped$count[2], (blr_model1_grouped$count[1] / (blr_model1_grouped$count[1] + blr_model1_grouped$count[2])),
+                       "Serenoa repens", blr_model1_grouped$count[4], blr_model1_grouped$count[3], (blr_model1_grouped$count[4] / (blr_model1_grouped$count[3] + blr_model1_grouped$count[4])))
+colnames(final_table) <- c("Species", "# correctly classified", "# incorrectly classified", "% correctly classified")
+
+kable(final_table, caption = "Table 2. Accuracy of binomial logistic regression model.") %>% 
+  kable_styling("striped")
+```

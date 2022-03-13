@@ -1,0 +1,134 @@
+---
+title: "Text analysis"
+description: |
+  Glasgow Climate Pact and Paris Agreement
+date: 2022-03-13
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# Overview
+
+This report performs a text analysis of the Glasgow Climate Pact and the Paris Agreement. First, word counts are compiled and compared between the two. Then a sentiment analysis is completed and compared.
+
+Data citations: United Nations Framework Convention on Climate Change (UNFCCC) (2015). The Paris Agreement. https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement
+
+United Nations Framework Convention on Climate Change (UNFCCC) (2021). Glasgow Climate Pact. https://unfccc.int/documents/310475
+
+# Setup
+
+```{r setup, include=TRUE, message=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+
+library(tidyverse)
+library(here)
+library(pdftools)
+library(patchwork)
+library(tidytext)
+```
+
+# Text input
+
+```{r}
+glasgow <- pdf_text(here("data", "glasgow.pdf"))
+paris <- pdf_text(here("data", "paris.pdf"))
+```
+
+# Text wrangling
+
+```{r}
+glasgow <- glasgow %>% 
+  str_remove_all("Advance unedited version") %>% 
+  str_remove_all(pattern = "[0-9]+")
+paris <- paris %>% 
+  str_remove_all(pattern = "[0-9]+")
+
+glasgow_lines <- data.frame(glasgow) %>% 
+  mutate(page = 1:n()) %>% 
+  mutate(full_text = str_split(glasgow, pattern = "\\n")) %>% 
+  unnest(full_text) %>% 
+  mutate(full_text = str_squish(full_text)) %>% 
+  slice(-(1:4))
+paris_lines <- data.frame(paris) %>% 
+  mutate(page = 1:n()) %>% 
+  mutate(full_text = str_split(paris, pattern = "\\n")) %>% 
+  unnest(full_text) %>% 
+  mutate(full_text = str_squish(full_text)) %>% 
+  slice(-(1:10))
+
+glasgow_nonstop_words <- glasgow_lines %>% 
+  unnest_tokens(word, full_text) %>% 
+  select(-glasgow) %>% 
+  anti_join(stop_words, by = "word")
+paris_nonstop_words <- paris_lines %>% 
+  unnest_tokens(word, full_text) %>% 
+  select(-paris) %>% 
+  anti_join(stop_words, by = "word")
+```
+
+# Word counts
+
+```{r}
+glasgow_nonstop_word_count <- glasgow_nonstop_words %>% 
+  count(word) %>% 
+  mutate(freq = n/sum(n))
+paris_nonstop_word_count <- paris_nonstop_words %>% 
+  count(word) %>% 
+  mutate(freq = n/sum(n))
+
+glasgow_top25 <- glasgow_nonstop_word_count %>% 
+  arrange(-freq) %>% 
+  slice(1:25) %>% 
+  mutate(word = fct_reorder(word, freq))
+paris_top25 <- paris_nonstop_word_count %>% 
+  arrange(-freq) %>% 
+  slice(1:25) %>% 
+  mutate(word = fct_reorder(word, freq))
+
+glasgow_plot <- ggplot(glasgow_top25, aes(y = word, x = freq)) +
+  geom_col(aes(fill = "red", alpha = word)) +
+  labs(y = "Word", x = "Proportion of non-stop words", title = "Glasgow") +
+  scale_x_continuous(limits = c(0, 0.06)) +
+  theme_minimal() +
+  theme(legend.position = "none")
+paris_plot <- ggplot(paris_top25, aes(y = word, x = freq)) +
+  geom_col(aes(fill = "red", alpha = word)) +
+  labs(y = "Word", x = "Proportion of non-stop words", title = "Paris") +
+  scale_x_continuous(limits = c(0, 0.06)) +
+  theme_minimal() +
+  theme(axis.title.y = element_blank(), legend.position = "none")
+
+glasgow_plot + paris_plot
+```
+
+**Figure 1.** Top 25 non-stop words in the Glasgow Climate Pact and Paris Agreement. Data: UNFCCC.
+
+# Sentiment analysis
+
+```{r}
+glasgow_bing <- glasgow_nonstop_words %>% 
+  inner_join(get_sentiments("bing"), by = "word") %>% 
+  group_by(sentiment) %>% 
+  summarize(count = n())
+paris_bing <- paris_nonstop_words %>% 
+  inner_join(get_sentiments("bing"), by = "word") %>% 
+  group_by(sentiment) %>% 
+  summarize(count = n())
+
+bing_combined <- glasgow_bing %>% 
+  inner_join(paris_bing, by = "sentiment", suffix = c("_glasgow", "_paris")) %>% 
+  pivot_longer(cols = count_glasgow:count_paris, names_to = "document", values_to = "count")
+
+bing_combined$document <- bing_combined$document %>% 
+  str_replace_all("count_glasgow", "Glasgow") %>% 
+  str_replace_all("count_paris", "Paris")
+
+ggplot(bing_combined, aes(x = document, y = count)) +
+  geom_col(aes(fill = sentiment), position = "dodge") +
+  scale_fill_manual(values = c("red3", "green4")) +
+  labs(x = "Document", y = "Word count", fill = "Sentiment") +
+  theme_minimal()
+```
+
+**Figure 2.** Sentiment analysis of the Glasgow Climate Pact and Paris Agreement, using the "bing" lexicon. The Paris Climate Agreement used more positive words. Data: UNFCCC.

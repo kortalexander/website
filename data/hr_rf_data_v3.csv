@@ -1,0 +1,850 @@
+species,family,movement_keyword,r_fin,kfin,geog_range,order,class,length,demers_pelag,diet_troph3,iucn_category,homerange,common_name,genus
+Buccinum undatum,Buccinidae,sedentary,0.57,266954.7536,1320000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Opisthonema oglinum,Clupeidae,habitat_coastal,1.026959074,38353.45049,2765000,Clupeiformes,Actinopteri,38,reef-associated,4.5,LC,NA,Atlantic thread herring,Opisthonema
+Sardinella aurita,Clupeidae,habitat_coastal,0.674292593,414149.4049,5502500,Clupeiformes,Actinopteri,41,pelagic-neritic,3.4,LC,NA,Round sardinella,Sardinella
+Trachurus symmetricus,Carangidae,pelagic,0.238376295,97859.78073,12545000,Carangiformes,Actinopteri,81,pelagic-oceanic,3.57,LC,NA,Pacific jack mackerel,Trachurus
+Sparidentex hasta,Sparidae,habitat_reef,0.508792111,712.9355819,755000,Eupercaria/misc,Actinopteri,58,demersal,NA,LC,NA,Sobaity seabream,Sparidentex
+Alosa pseudoharengus,Clupeidae,habitat_coastal,1.842742708,24511.5196,887500,Clupeiformes,Actinopteri,40,pelagic-neritic,3.39,LC,NA,Alewife,Alosa
+Micromesistius poutassou,Gadidae,migratory,0.264956898,11051770.13,11370000,Gadiformes,Actinopteri,55.5,bathypelagic,4.13,NA,NA,Blue whiting,Micromesistius
+Alosa sapidissima,Clupeidae,pelagic,1.012650669,4287.867606,690000,Clupeiformes,Actinopteri,76,pelagic-neritic,3.48,LC,NA,American shad,Alosa
+Scomberomorus maculatus,Scombridae,hms,0.552706116,69510.07242,832500,Scombriformes,Actinopteri,91,pelagic-neritic,4.53,LC,NA,Atlantic Spanish mackerel,Scomberomorus
+Auxis thazard,Scombridae,pelagic,0.704484871,1188784.853,24452500,Scombriformes,Actinopteri,65,pelagic-neritic,4.37,NA,NA,Frigate tuna,Auxis
+Scomberomorus cavalla,Scombridae,hms,0.422976077,117279.9657,2745000,Scombriformes,Actinopteri,184,pelagic-neritic,4.42,LC,NA,King mackerel,Scomberomorus
+Trachinus draco,Trachinidae,habitat_benthic,0.630179269,3639.605607,2867500,Perciformes/Percoidei,Actinopteri,53,demersal,7.22E-04,LC,NA,Greater weever,Trachinus
+Penaeus monodon,Penaeidae,habitat_benthic,1.19,383488.9311,10907500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oblada melanura,Sparidae,habitat_reef,0.430882512,6862.353238,1805000,Eupercaria/misc,Actinopteri,36.59999847,benthopelagic,5.84E-04,LC,NA,Saddled seabream,Oblada
+Boops boops,Sparidae,pelagic,0.47071232,289938.8997,2757500,Eupercaria/misc,Actinopteri,40,demersal,2.79,LC,NA,Bogue,Boops
+Crassostrea virginica,Ostreidae,sedentary,0.57,1163823.621,3487500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Epinephelus areolatus,Serranidae,habitat_coastal,0.322549477,5778.412723,12137500,Perciformes/Serranoidei,Actinopteri,47,reef-associated,3.74,LC,NA,Areolate grouper,Epinephelus
+Coregonus lavaretus,Salmonidae,habitat_coastal,0.390523349,18551.55656,1395000,Salmoniformes,Actinopteri,73,demersal,3.13,VU,NA,European whitefish,Coregonus
+Scomber japonicus,Scombridae,hms,0.39773042,15778539.37,6372500,Scombriformes,Actinopteri,64,pelagic-neritic,3.38,LC,NA,Chub mackerel,Scomber
+Cynoscion nebulosus,Sciaenidae,habitat_coastal,0.436633792,23214.89583,557500,Eupercaria/misc,Actinopteri,100,demersal,6.87E-04,LC,NA,Spotted weakfish,Cynoscion
+Lethrinus obsoletus,Lethrinidae,habitat_reef,0.456931205,988.3063252,8592500,Eupercaria/misc,Actinopteri,60,reef-associated,3.89,LC,NA,Orange-striped emperor,Lethrinus
+Ctenolabrus rupestris,Labridae,habitat_reef,0.491971324,2070.185701,1272500,Eupercaria/misc,Actinopteri,18,reef-associated,3.58,LC,NA,Goldsinny-wrasse,Ctenolabrus
+Katsuwonus pelamis,Scombridae,pelagic,0.504382583,22018245.45,251292500,Scombriformes,Actinopteri,110,pelagic-oceanic,4.43,LC,NA,Skipjack tuna,Katsuwonus
+Hoplopagrus guentherii,Lutjanidae,habitat_reef,0.502875077,273.0618526,632500,Eupercaria/misc,Actinopteri,92,reef-associated,3.8,LC,NA,Mexican barred snapper,Hoplopagrus
+Sciaenops ocellatus,Sciaenidae,habitat_benthic,0.347234648,55.28250163,987500,Eupercaria/misc,Actinopteri,155,demersal,6.46E-04,LC,NA,Red drum,Sciaenops
+Haemulon plumierii,Haemulidae,habitat_reef,0.578655171,431.5592646,2540000,Eupercaria/misc,Actinopteri,53,reef-associated,3.82,LC,NA,White grunt,Haemulon
+Lutjanus argentiventris,Lutjanidae,habitat_reef,0.312507548,14303.98733,712500,Eupercaria/misc,Actinopteri,71,reef-associated,6.98E-04,LC,NA,Yellow snapper,Lutjanus
+Lutjanus synagris,Lutjanidae,habitat_reef,0.66052967,28340.63155,3455000,Eupercaria/misc,Actinopteri,60,reef-associated,3.82,NT,NA,Lane snapper,Lutjanus
+Dactylopterus volitans,Dactylopteridae,habitat_coastal,0.6387551,6.205821294,5692500,Dactylopteriformes,Actinopteri,50,reef-associated,3.65,LC,NA,Flying gurnard,Dactylopterus
+Euthynnus alletteratus,Scombridae,hms,0.330255295,115033.1049,5647500,Scombriformes,Actinopteri,122,pelagic-oceanic,4.49,LC,NA,Little tunny,Euthynnus
+Thunnus maccoyii,Scombridae,hms,0.101845095,1356848.854,81205000,Scombriformes,Actinopteri,245,pelagic-oceanic,6.79E-04,CR,NA,Southern bluefin tuna,Thunnus
+Cromileptes altivelis,Serranidae,habitat_reef,0.151702421,191382.417,7332500,Perciformes/Serranoidei,Actinopteri,70,reef-associated,7.77E-04,DD,NA,Humpback grouper,Cromileptes
+Lutjanus guttatus,Lutjanidae,habitat_reef,0.369622858,983.5538908,542500,Eupercaria/misc,Actinopteri,80,reef-associated,4.04,LC,NA,Spotted rose snapper,Lutjanus
+Pecten jacobaeus,Pectinidae,sedentary,0.43,93.70232558,1357500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Epinephelus marginatus,Serranidae,territorial,0.110074674,43372.70186,2530000,Perciformes/Serranoidei,Actinopteri,150,reef-associated,4.43,VU,0.005312,Dusky grouper,Epinephelus
+Plectropomus leopardus,Serranidae,habitat_reef,0.262136996,148319.6519,8795000,Perciformes/Serranoidei,Actinopteri,120,reef-associated,4.42,LC,0.0104584,Leopard coralgrouper,Plectropomus
+Plectropomus leopardus,Serranidae,habitat_reef,0.262136996,148319.6519,8795000,Perciformes/Serranoidei,Actinopteri,120,reef-associated,4.42,LC,0.0187969,Leopard coralgrouper,Plectropomus
+Pecten maximus,Pectinidae,sedentary,0.57,150688.9544,1395000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lachnolaimus maximus,Labridae,habitat_reef,0.503220372,1005.587269,1942500,Eupercaria/misc,Actinopteri,91,reef-associated,4.17,VU,0.00123027,Hogfish,Lachnolaimus
+Lutjanus buccanella,Lutjanidae,habitat_coastal,0.522081563,59.15550784,2275000,Eupercaria/misc,Actinopteri,75,reef-associated,6.74E-04,DD,NA,Blackfin snapper,Lutjanus
+Loxechinus albus,Parechinidae,sedentary,0.57,617373.0596,1527500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Thunnus albacares,Scombridae,hms,0.371683336,13161424.54,238802500,Scombriformes,Actinopteri,239,pelagic-oceanic,4.41,NT,12235.3,Yellowfin tuna,Thunnus
+Thunnus albacares,Scombridae,hms,0.371683336,13161424.54,238802500,Scombriformes,Actinopteri,239,pelagic-oceanic,4.41,NT,57955.7,Yellowfin tuna,Thunnus
+Lethrinus xanthochilus,Lethrinidae,habitat_reef,0.313354677,137.2629902,10410000,Eupercaria/misc,Actinopteri,70,reef-associated,3.78,LC,NA,Yellowlip emperor,Lethrinus
+Cephalopholis argus,Serranidae,habitat_reef,0.453164741,173.6145665,10685000,Perciformes/Serranoidei,Actinopteri,60,reef-associated,4.48,LC,0.0015,Peacock hind,Cephalopholis
+Lethrinus harak,Lethrinidae,habitat_reef,0.395683078,139.727987,8735000,Eupercaria/misc,Actinopteri,50,reef-associated,3.59,LC,0.0019881,Thumbprint emperor,Lethrinus
+Lutjanus campechanus,Lutjanidae,habitat_reef,0.353869418,33928.93361,2282500,Eupercaria/misc,Actinopteri,100,reef-associated,6.77E-04,VU,0.002866,Northern red snapper,Lutjanus
+Lutjanus campechanus,Lutjanidae,habitat_reef,0.353869418,33928.93361,2282500,Eupercaria/misc,Actinopteri,100,reef-associated,6.77E-04,VU,0.002899,Northern red snapper,Lutjanus
+Lutjanus campechanus,Lutjanidae,habitat_reef,0.353869418,33928.93361,2282500,Eupercaria/misc,Actinopteri,100,reef-associated,6.77E-04,VU,0.006204,Northern red snapper,Lutjanus
+Lutjanus campechanus,Lutjanidae,habitat_reef,0.353869418,33928.93361,2282500,Eupercaria/misc,Actinopteri,100,reef-associated,6.77E-04,VU,0.009499,Northern red snapper,Lutjanus
+Coregonus albula,Salmonidae,migratory,0.420787903,20850.23819,32500,Salmoniformes,Actinopteri,48,benthopelagic,5.29E-04,LC,NA,Vendace,Coregonus
+Lutjanus cyanopterus,Lutjanidae,habitat_reef,0.38120872,292.0709686,2590000,Eupercaria/misc,Actinopteri,160,reef-associated,4.36,VU,NA,Cubera snapper,Lutjanus
+Scarus ghobban,Scaridae,habitat_reef,0.572840955,350.9246299,12940000,Eupercaria/misc,Actinopteri,75,reef-associated,2,LC,NA,Blue-barred parrotfish,Scarus
+Mullus surmuletus,Mullidae,habitat_benthic,0.656087269,66193.24414,2882500,Mulliformes,Actinopteri,40,demersal,3.45,LC,NA,Surmullet,Mullus
+Ocyurus chrysurus,Lutjanidae,habitat_reef,0.47392585,106024.5437,2962500,Eupercaria/misc,Actinopteri,86.30000305,reef-associated,4.03,DD,4.17,Yellowtail snapper,Ocyurus
+Lutjanus analis,Lutjanidae,habitat_reef,0.374912566,158.9383908,2712500,Eupercaria/misc,Actinopteri,94,reef-associated,3.91,NT,7.64,Mutton snapper,Lutjanus
+Lutjanus kasmira,Lutjanidae,habitat_reef,0.454178194,40.45108344,12822500,Eupercaria/misc,Actinopteri,40,reef-associated,3.87,LC,NA,Common bluestripe snapper,Lutjanus
+Bolbometopon muricatum,Scaridae,habitat_reef,0.236827261,921.481753,10460000,Eupercaria/misc,Actinopteri,130,reef-associated,4.61E-04,VU,NA,Green humphead parrotfish,Bolbometopon
+Thunnus thynnus,Scombridae,pelagic,0.081764288,2680523.857,59672500,Scombriformes,Actinopteri,458,pelagic-oceanic,4.45,EN,NA,Atlantic bluefin tuna,Thunnus
+Cephalopholis boenak,Serranidae,habitat_reef,0.477019133,467414.1572,10042500,Perciformes/Serranoidei,Actinopteri,30,reef-associated,4.07,LC,8.13E-06,Chocolate hind,Cephalopholis
+Sarpa salpa,Sparidae,habitat_reef,0.511305673,8456.209715,1802500,Eupercaria/misc,Actinopteri,51,benthopelagic,2,LC,0.049,Salema,Sarpa
+Sarpa salpa,Sparidae,habitat_reef,0.511305673,8456.209715,1802500,Eupercaria/misc,Actinopteri,51,benthopelagic,2,LC,4.27E-04,Salema,Sarpa
+Panopea abrupta,Hiatellidae,sedentary,0.37,31219.30811,747500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lutjanus griseus,Lutjanidae,habitat_reef,0.328631033,1831.695549,2207500,Eupercaria/misc,Actinopteri,89,reef-associated,4.23,LC,0.145837,Grey snapper,Lutjanus
+Engraulis mordax,Engraulidae,pelagic,0.452423043,424727.4555,360000,Clupeiformes,Actinopteri,24.79999924,pelagic-neritic,5.35E-04,LC,NA,Californian anchovy,Engraulis
+Lethrinus nebulosus,Lethrinidae,habitat_reef,0.334828189,540.0978942,11485000,Eupercaria/misc,Actinopteri,87,reef-associated,3.76,LC,8.5,Spangled emperor,Lethrinus
+Morone saxatilis,Moronidae,habitat_coastal,0.255328822,44266.68488,565000,Eupercaria/misc,Actinopteri,200,demersal,4.65,LC,7.78,Striped bass,Morone
+Monotaxis grandoculis,Lethrinidae,habitat_reef,0.551484374,113.7729425,11135000,Eupercaria/misc,Actinopteri,60,reef-associated,3.37,LC,NA,Humpnose big-eye bream,Monotaxis
+Acanthopagrus latus,Sparidae,habitat_coastal,0.418755885,3432.653845,4432500,Eupercaria/misc,Actinopteri,40,demersal,6.63E-04,DD,0.146,Yellowfin seabream,Acanthopagrus
+Cheilinus undulatus,Labridae,habitat_reef,0.377461777,5398.268449,7215000,Eupercaria/misc,Actinopteri,229,reef-associated,6.89E-04,EN,6.223,Humphead wrasse,Cheilinus
+Cheilinus undulatus,Labridae,habitat_reef,0.377461777,5398.268449,7215000,Eupercaria/misc,Actinopteri,229,reef-associated,6.89E-04,EN,14.363,Humphead wrasse,Cheilinus
+Cheilinus undulatus,Labridae,habitat_reef,0.377461777,5398.268449,7215000,Eupercaria/misc,Actinopteri,229,reef-associated,6.89E-04,EN,8.56E-04,Humphead wrasse,Cheilinus
+Epinephelus merra,Serranidae,habitat_reef,0.431465308,15891.93816,9600000,Perciformes/Serranoidei,Actinopteri,32,reef-associated,3.82,LC,NA,Honeycomb grouper,Epinephelus
+Spondyliosoma cantharus,Sparidae,habitat_reef,0.395053221,62479.58166,3510000,Eupercaria/misc,Actinopteri,60,benthopelagic,3.34,LC,NA,Black seabream,Spondyliosoma
+Menidia menidia,Atherinopsidae,habitat_coastal,0.883068984,1323.357543,912500,Atheriniformes,Actinopteri,15,pelagic-neritic,3.19,LC,NA,Atlantic silverside,Menidia
+Gasterosteus aculeatus,Gasterosteidae,habitat_coastal,0.997632856,579.8245284,6017500,Perciformes/Gasterosteoidei,Actinopteri,11,benthopelagic,3.31,LC,NA,Three-spined stickleback,Gasterosteus
+Engraulis encrasicolus,Engraulidae,migratory,0.556514588,2597693.366,3817500,Clupeiformes,Actinopteri,20,pelagic-neritic,5.39E-04,LC,NA,European anchovy,Engraulis
+Pagrus pagrus,Sparidae,habitat_reef,0.393674465,69501.76973,5512500,Eupercaria/misc,Actinopteri,91,benthopelagic,3.86,LC,NA,Red porgy,Pagrus
+Xyrichtys novacula,Labridae,habitat_coastal,0.651045245,179.8277477,4975000,Eupercaria/misc,Actinopteri,38,reef-associated,3.51,LC,0.32,Pearly razorfish,Xyrichtys
+Sargocentron spiniferum,Holocentridae,habitat_reef,1.094233812,134.9547038,11040000,Holocentriformes,Actinopteri,51,reef-associated,3.6,LC,NA,Sabre squirrelfish,Sargocentron
+Sardina pilchardus,Clupeidae,pelagic,0.527727922,10016809.96,2405000,Clupeiformes,Actinopteri,27.5,pelagic-neritic,3.06,LC,NA,European pilchard,Sardina
+Epinephelus morio,Serranidae,habitat_benthic,0.214918572,89682.26368,3007500,Perciformes/Serranoidei,Actinopteri,125,reef-associated,3.5,VU,2.09,Red grouper,Epinephelus
+Chanos chanos,Chanidae,habitat_reef,0.566145214,23425.16314,11060000,Gonorynchiformes,Actinopteri,180,benthopelagic,4.15E-04,LC,NA,Milkfish,Chanos
+Epinephelus striatus,Serranidae,habitat_reef,0.263107501,2316.178743,2580000,Perciformes/Serranoidei,Actinopteri,122,reef-associated,4.06,CR,0.018305,Nassau grouper,Epinephelus
+Mycteroperca microlepis,Serranidae,habitat_reef,0.176804061,28254.4642,1780000,Perciformes/Serranoidei,Actinopteri,145,reef-associated,3.65,VU,0.0034,Gag,Mycteroperca
+Solea solea,Soleidae,habitat_benthic,0.314243351,318367.9948,1462500,Pleuronectiformes,Actinopteri,70,demersal,3.21,DD,NA,Common sole,Solea
+Scophthalmus maximus,Scophthalmidae,habitat_benthic,0.444655202,62251.19121,1410000,Pleuronectiformes,Actinopteri,100,demersal,4.36,NA,NA,Turbot,Scophthalmus
+Scomber scombrus,Scombridae,hms,0.271095154,10661466.88,2945000,Scombriformes,Actinopteri,60,pelagic-neritic,3.63,LC,NA,Atlantic mackerel,Scomber
+Sardinops sagax,Clupeidae,migratory,0.348585234,25758757.07,7210000,Clupeiformes,Actinopteri,39.5,pelagic-neritic,2.84,LC,NA,South American pilchard,Sardinops
+Engraulis japonicus,Engraulidae,pelagic,0.795607578,4860253.091,760000,Clupeiformes,Actinopteri,18,pelagic-neritic,3.14,LC,NA,Japanese anchovy,Engraulis
+Pagrus major,Sparidae,habitat_reef,0.388831741,110861.6696,1235000,Eupercaria/misc,Actinopteri,100,demersal,4.46,LC,NA,Red seabream,Pagrus
+Semicossyphus pulcher,Labridae,habitat_reef,0.707450578,27.00400648,222500,Eupercaria/misc,Actinopteri,91,reef-associated,6.15E-04,VU,0.015134,California sheephead,Semicossyphus
+Semicossyphus pulcher,Labridae,habitat_reef,0.707450578,27.00400648,222500,Eupercaria/misc,Actinopteri,91,reef-associated,6.15E-04,VU,0.26,California sheephead,Semicossyphus
+Dicentrarchus labrax,Moronidae,habitat_coastal,0.531450639,51902.73934,1665000,Eupercaria/misc,Actinopteri,103,demersal,5.99E-04,LC,0.017712,European seabass,Dicentrarchus
+Sparus aurata,Sparidae,habitat_reef,0.379937307,52530.50873,1810000,Eupercaria/misc,Actinopteri,70,demersal,3.7,LC,0.167,Gilthead seabream,Sparus
+Lutjanus gibbus,Lutjanidae,habitat_reef,0.436363308,844.8831364,12437500,Eupercaria/misc,Actinopteri,50,reef-associated,4.12,LC,NA,Humpback red snapper,Lutjanus
+Caranx melampygus,Carangidae,habitat_reef,0.562323474,47.64517442,13410000,Carangiformes,Actinopteri,117,reef-associated,4.49,LC,NA,Bluefin trevally,Caranx
+Mulloidichthys flavolineatus,Mullidae,habitat_reef,0.798341841,351.503561,11047500,Mulliformes,Actinopteri,43,reef-associated,3.84,LC,0.0054,Yellowstripe goatfish,Mulloidichthys
+Naso unicornis,Acanthuridae,habitat_reef,0.337334043,2152.086384,11817500,Acanthuriformes,Actinopteri,70,reef-associated,3.75E-04,LC,0.0233,Bluespine unicornfish,Naso
+Naso unicornis,Acanthuridae,habitat_reef,0.337334043,2152.086384,11817500,Acanthuriformes,Actinopteri,70,reef-associated,3.75E-04,LC,0.0321,Bluespine unicornfish,Naso
+Engraulis ringens,Engraulidae,pelagic,0.648902669,32789505.44,470000,Clupeiformes,Actinopteri,20,pelagic-neritic,4.94E-04,LC,NA,Anchoveta,Engraulis
+Pseudopleuronectes americanus,Pleuronectidae,habitat_benthic,0.307223496,198061.8822,760000,Pleuronectiformes,Actinopteri,64,demersal,3.62,NA,NA,Winter flounder,Pseudopleuronectes
+Merluccius productus,Merlucciidae,migratory,0.12010337,14123361.56,960000,Gadiformes,Actinopteri,91,pelagic-neritic,4.35,LC,NA,North Pacific hake,Merluccius
+Sebastes crameri,Sebastidae,habitat_benthic,0.05294117,58480.00756,1632500,Perciformes/Scorpaenoidei,Actinopteri,58,bathydemersal,3.764736842,NA,NA,Darkblotched rockfish,Sebastes
+Pleuronectes platessa,Pleuronectidae,migratory,0.259689843,1292924.937,1712500,Pleuronectiformes,Actinopteri,100,demersal,3.17,LC,NA,European plaice,Pleuronectes
+Paralichthys dentatus,Paralichthyidae,habitat_benthic,1.335834603,38762.28381,360000,Pleuronectiformes,Actinopteri,94,demersal,4.49,LC,NA,Summer flounder,Paralichthys
+Pandalus borealis,Pandalidae,deep,0.58,1105170.825,5272500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Theragra chalcogramma,Gadidae,habitat_deep,0.268162474,60868752.04,3285000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gadus morhua,Gadidae,migratory,0.368813682,21820501.73,4322500,Gadiformes,Actinopteri,200,benthopelagic,4.09,VU,0.2704,Atlantic cod,Gadus
+Melanogrammus aeglefinus,Gadidae,migratory,0.301691966,6505571.307,2797500,Gadiformes,Actinopteri,112,demersal,4.03,VU,NA,Haddock,Melanogrammus
+Mallotus villosus,Osmeridae,migratory,0.138113299,28037995.03,13647500,Osmeriformes,Actinopteri,20,pelagic-oceanic,3.15,NA,NA,Capelin,Mallotus
+Clupea harengus,Clupeidae,migratory,0.216471005,14100473.79,3810000,Clupeiformes,Actinopteri,45,benthopelagic,3.38,LC,NA,Atlantic herring,Clupea
+Dissostichus mawsoni,Nototheniidae,deep,0.104337688,119051.7854,12715000,Perciformes/Notothenioidei,Actinopteri,200,pelagic-oceanic,6.81E-04,NA,NA,Antarctic toothfish,Dissostichus
+Acanthurus sohal,Acanthuridae,habitat_reef,0.530369312,202.6964938,955000,Acanthuriformes,Actinopteri,40,reef-associated,3.45E-04,LC,NA,Sohal surgeonfish,Acanthurus
+Acipenser transmontanus,Acipenseridae,habitat_coastal,0.08634626,3863.42155,350000,Acipenseriformes,Actinopteri,610,demersal,3.25,LC,NA,White sturgeon,Acipenser
+Albula vulpes,Albulidae,habitat_lagoon,0.463332904,847.2094178,1525000,Albuliformes,Actinopteri,104,reef-associated,3.73,NT,NA,Bonefish,Albula
+Alopias superciliosus,Alopiidae,hms,0.077397349,431.2292393,153285000,Lamniformes,Elasmobranchii,487.9849854,pelagic-oceanic,4.51,VU,NA,Bigeye thresher,Alopias
+Alopias vulpinus,Alopiidae,hms,0.047303963,2806.783836,225200000,Lamniformes,Elasmobranchii,573.2999878,pelagic-oceanic,4.5,VU,NA,Thresher,Alopias
+Ammodytes personatus,Ammodytidae,habitat_coastal,0.344053886,2935070.704,1835000,Perciformes/Uranoscopoidei,Actinopteri,15,demersal,3.1525,NA,NA,Pacific sandlance,Ammodytes
+Anarhichas denticulatus,Anarhichadidae,habitat_deep,0.100670808,25393.14083,3635000,Perciformes/Zoarcoidei,Actinopteri,180,benthopelagic,6.98E-04,NA,NA,Northern wolffish,Anarhichas
+Anarhichas lupus,Anarhichadidae,habitat_coastal,0.104945385,81375.50792,1955000,Perciformes/Zoarcoidei,Actinopteri,150,demersal,3.55,NA,NA,Atlantic wolffish,Anarhichas
+Anoplopoma fimbria,Anoplopomatidae,deep,0.035406384,3806231.238,2682500,Perciformes/Cottoidei,Actinopteri,120,bathydemersal,3.84,NA,NA,Sablefish,Anoplopoma
+Aplodactylus punctatus,Aplodactylidae,habitat_coastal,0.630179269,41.96266255,240000,Centrarchiformes,Actinopteri,43.70000076,demersal,2.04,NA,NA,NA,Aplodactylus
+Argentina silus,Argentinidae,pelagic,0.073400392,2785.434725,2310000,Argentiniformes,Actinopteri,70,bathypelagic,3.32,NA,NA,Greater argentine,Argentina
+Argentina sphyraena,Argentinidae,pelagic,0.227703191,5669.679004,2555000,Argentiniformes,Actinopteri,35,bathydemersal,3.49,NA,NA,Argentine,Argentina
+Glossanodon semifasciatus,Argentinidae,pelagic,0.518660964,67613.97225,532500,Argentiniformes,Actinopteri,21,benthopelagic,5.42E-04,NA,NA,Deep-sea smelt,Glossanodon
+Bathyraja eatonii,Arhynchobatidae,habitat_benthic,0.116187742,9.433008903,1087500,Rajiformes,Elasmobranchii,100,demersal,4.3,DD,NA,Eaton's skate,Bathyraja
+Aristaeomorpha foliacea,Aristeidae,habitat_deep,0.47,1674.123473,10035000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aristeus antennatus,Aristeidae,habitat_deep,0.48,5001.24444,36575000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aristeus varidens,Aristeidae,habitat_deep,0.48,2168.491667,517500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Arripis georgianus,Arripidae,habitat_coastal,0.387883213,8663.442732,500000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Arripis trutta,Arripidae,habitat_coastal,0.285831282,90126.44043,930000,Scombriformes,Actinopteri,89,pelagic-neritic,4.07,NA,NA,Australian salmon,Arripis
+Atherina boyeri,Atherinidae,habitat_coastal,0.812586347,5070.648817,1385000,Atheriniformes,Actinopteri,20,demersal,5.56E-04,LC,NA,Big-scale sand smelt,Atherina
+Odontesthes regia,Atherinidae,habitat_coastal,0.645590227,5044.487761,352500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Amphichthys cryptocentrus,Batrachoididae,sedentary,0.57223899,3263.489613,972500,Batrachoidiformes,Actinopteri,40,reef-associated,3.75,LC,NA,Bocon toadfish,Amphichthys
+Ablennes hians,Belonidae,habitat_coastal,0.580917618,38.09834531,10402500,Beloniformes,Actinopteri,140,reef-associated,7.77E-04,LC,NA,Flat needlefish,Ablennes
+Belone belone,Belonidae,pelagic,0.478994871,26192.69803,2555000,Beloniformes,Actinopteri,103.5,pelagic-oceanic,4.16,LC,NA,Garfish,Belone
+Tylosurus crocodilus,Belonidae,habitat_coastal,0.696411061,353.3717566,12982500,Beloniformes,Actinopteri,150,reef-associated,4.43,NA,NA,Hound needlefish,Tylosurus
+Beryx decadactylus,Berycidae,habitat_deep,0.158706812,10665.2007,19952500,Beryciformes,Actinopteri,100,bathydemersal,7.13E-04,LC,NA,Alfonsino,Beryx
+Beryx splendens,Berycidae,habitat_deep,0.241932168,22171.35504,17805000,Beryciformes,Actinopteri,70,benthopelagic,4.27,LC,NA,Splendid alfonsino,Beryx
+Centroberyx affinis,Berycidae,habitat_coastal,0.322306719,27515.24399,777500,Beryciformes,Actinopteri,51,benthopelagic,6.58E-04,NA,NA,Redfish,Centroberyx
+Bothus pantherinus,Bothidae,habitat_benthic,0.785631156,223.1836131,9750000,Pleuronectiformes,Actinopteri,39,reef-associated,6.05E-04,LC,NA,Leopard flounder,Bothus
+Cottoperca gobio,Bovichtidae,territorial,0.630179269,35.33597676,665000,Perciformes/Notothenioidei,Actinopteri,80,demersal,7.36E-04,NA,NA,Channel bull blenny,Cottoperca
+Brama brama,Bramidae,migratory,0.25373223,70090.69367,140227500,Scombriformes,Actinopteri,100,pelagic-neritic,7.05E-04,LC,NA,Atlantic pomfret,Brama
+Taractichthys steindachneri,Bramidae,hms,0.469887034,45.36409493,11020000,Scombriformes,Actinopteri,60,benthopelagic,NA,NA,NA,Sickle pomfret,Taractichthys
+Bregmaceros mcclellandi,Bregmacerotidae,pelagic,0.389520618,24255.36307,62220000,Gadiformes,Actinopteri,9.600000381,pelagic-oceanic,5.70E-04,NA,NA,Unicorn cod,Bregmaceros
+Callorhinchus callorynchus,Callorhinchidae,habitat_benthic,0.166717262,61930.47979,1385000,Chimaeriformes,Holocephali,89.19999695,demersal,3.35,LC,NA,Plownose chimaera,Callorhinchus
+Callorhinchus milii,Callorhinchidae,habitat_benthic,0.114485214,69198.59537,1070000,Chimaeriformes,Holocephali,125,demersal,6.22E-04,LC,NA,Ghost shark,Callorhinchus
+Cancer borealis,Cancridae,sedentary,0.46,58525.66957,1042500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cancer irroratus,Cancridae,sedentary,0.46,6442.986434,1115000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cancer pagurus,Cancridae,sedentary,0.46,359939.0174,1520000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cancer productus,Cancridae,sedentary,0.46,9666.26087,632500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Capros aper,Caproidae,habitat_reef,0.435056667,770203.4273,2592500,Acanthuriformes,Actinopteri,30,demersal,3.14,LC,NA,Boarfish,Capros
+Alectis alexandrinus,Carangidae,habitat_coastal,0.28,3199.7,895000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alepes djedaba,Carangidae,habitat_reef,1.017167166,261.8920556,8030000,Carangiformes,Actinopteri,40,reef-associated,5.73E-04,LC,NA,Shrimp scad,Alepes
+Atule mate,Carangidae,habitat_reef,1.254655656,1356.375346,11757500,Carangiformes,Actinopteri,30,reef-associated,4.22,LC,NA,Yellowtail scad,Atule
+Carangoides bajad,Carangidae,habitat_reef,0.975847099,7411.747198,5572500,Carangiformes,Actinopteri,55,reef-associated,6.86E-04,LC,NA,Orangespotted trevally,Carangoides
+Carangoides fulvoguttatus,Carangidae,habitat_reef,1.009870027,221.7473477,13272500,Carangiformes,Actinopteri,120,reef-associated,4.43,LC,NA,Yellowspotted trevally,Carangoides
+Carangoides malabaricus,Carangidae,habitat_reef,1.1685438,457.2905183,11795000,Carangiformes,Actinopteri,60,reef-associated,6.74E-04,LC,NA,Malabar trevally,Carangoides
+Caranx crysos,Carangidae,habitat_coastal,0.710864347,18701.45839,3710000,Carangiformes,Actinopteri,70,reef-associated,4.13,LC,0.021204,Blue runner,Caranx
+Caranx hippos,Carangidae,habitat_reef,0.871413741,22718.78796,5142500,Carangiformes,Actinopteri,124,reef-associated,3.56,LC,NA,Crevalle jack,Caranx
+Caranx ignobilis,Carangidae,habitat_reef,0.422004473,47191.5377,13842500,Carangiformes,Actinopteri,170,reef-associated,4.22,LC,0.0043,Giant trevally,Caranx
+Caranx ignobilis,Carangidae,habitat_reef,0.422004473,47191.5377,13842500,Carangiformes,Actinopteri,170,reef-associated,4.22,LC,0.0528,Giant trevally,Caranx
+Caranx ignobilis,Carangidae,habitat_reef,0.422004473,47191.5377,13842500,Carangiformes,Actinopteri,170,reef-associated,4.22,LC,0.492,Giant trevally,Caranx
+Caranx rhonchus,Carangidae,habitat_coastal,0.643120381,19231.55152,1315000,Carangiformes,Actinopteri,60,benthopelagic,6.22E-04,LC,NA,False scad,Caranx
+Caranx ruber,Carangidae,habitat_reef,0.824246729,95.90817563,2530000,Carangiformes,Actinopteri,73,reef-associated,4.28,LC,NA,Bar jack,Caranx
+Caranx sexfasciatus,Carangidae,habitat_reef,0.730946249,273.4482874,11302500,Carangiformes,Actinopteri,120,reef-associated,4.5,LC,NA,Bigeye trevally,Caranx
+Chloroscombrus chrysurus,Carangidae,habitat_coastal,0.817300368,60228.06537,4080000,Carangiformes,Actinopteri,65,pelagic-neritic,3.54,LC,NA,Atlantic bumper,Chloroscombrus
+Chloroscombrus orqueta,Carangidae,habitat_coastal,0.883662012,6174.469341,775000,Carangiformes,Actinopteri,30,benthopelagic,2.54,LC,NA,Pacific bumper,Chloroscombrus
+Decapterus macrosoma,Carangidae,pelagic,1.339773422,3202.233997,14297500,Carangiformes,Actinopteri,35,reef-associated,5.87E-04,LC,NA,Shortfin scad,Decapterus
+Decapterus maruadsi,Carangidae,pelagic,1.47971252,146120.1126,9375000,Carangiformes,Actinopteri,30,reef-associated,5.87E-04,LC,NA,Japanese scad,Decapterus
+Decapterus russelli,Carangidae,pelagic,1.232939226,363773.9984,11902500,Carangiformes,Actinopteri,45,benthopelagic,3.68,LC,NA,Indian scad,Decapterus
+Elagatis bipinnulata,Carangidae,pelagic,0.893428233,55659.46335,15267500,Carangiformes,Actinopteri,180,reef-associated,4.27,LC,NA,Rainbow runner,Elagatis
+Gnathanodon speciosus,Carangidae,habitat_reef,0.706049385,5597.438488,13205000,Carangiformes,Actinopteri,120,reef-associated,6.63E-04,LC,NA,Golden trevally,Gnathanodon
+Lichia amia,Carangidae,habitat_coastal,0.934625792,6692.697819,4077500,Carangiformes,Actinopteri,200,pelagic-neritic,4.5,LC,NA,Leerfish,Lichia
+Megalaspis cordyla,Carangidae,pelagic,0.855472818,323579.9364,10982500,Carangiformes,Actinopteri,80,reef-associated,6.75E-04,LC,NA,Torpedo scad,Megalaspis
+Naucrates ductor,Carangidae,pelagic,1.064734154,67.96813996,23690000,Carangiformes,Actinopteri,70,reef-associated,5.89E-04,LC,NA,Pilotfish,Naucrates
+Parastromateus niger,Carangidae,habitat_coastal,1.069770735,170627.184,11080000,Carangiformes,Actinopteri,75,reef-associated,5.06E-04,LC,NA,Black pomfret,Parastromateus
+Parona signata,Carangidae,habitat_coastal,0.934625792,3739.276221,365000,Carangiformes,Actinopteri,60,demersal,5.87E-04,NA,NA,Parona leatherjacket,Parona
+Pseudocaranx dentex,Carangidae,habitat_coastal,0.381904298,24315.09685,4832500,Carangiformes,Actinopteri,122,reef-associated,3.92,LC,0.91857,White trevally,Pseudocaranx
+Pseudocaranx dentex,Carangidae,habitat_coastal,0.381904298,24315.09685,4832500,Carangiformes,Actinopteri,122,reef-associated,3.92,LC,1.0178,White trevally,Pseudocaranx
+Scomberoides commersonnianus,Carangidae,habitat_reef,0.911024365,22678.46262,10520000,Carangiformes,Actinopteri,120,reef-associated,7.53E-04,LC,NA,Talang queenfish,Scomberoides
+Scomberoides lysan,Carangidae,habitat_reef,0.860570249,9.175311382,11030000,Carangiformes,Actinopteri,110,reef-associated,6.98E-04,LC,NA,Doublespotted queenfish,Scomberoides
+Scomberoides tol,Carangidae,habitat_reef,0.911024365,279.9398237,11720000,Carangiformes,Actinopteri,60,reef-associated,4.11,LC,NA,Needlescaled queenfish,Scomberoides
+Selar crumenophthalmus,Carangidae,pelagic,1.355871747,368036.904,19110000,Carangiformes,Actinopteri,70,reef-associated,3.81,LC,NA,Bigeye scad,Selar
+Selaroides leptolepis,Carangidae,habitat_coastal,1.611950512,374978.549,8477500,Carangiformes,Actinopteri,22,reef-associated,3.84,LC,NA,Yellowstripe scad,Selaroides
+Selene dorsalis,Carangidae,habitat_coastal,0.654916541,20264.77448,612500,Carangiformes,Actinopteri,40,demersal,7.05E-04,LC,NA,African moonfish,Selene
+Selene peruviana,Carangidae,habitat_coastal,0.882477633,121.8886416,720000,Carangiformes,Actinopteri,40,benthopelagic,4.26,LC,NA,Peruvian moonfish,Selene
+Selene setapinnis,Carangidae,habitat_coastal,0.895328391,11454.45638,3615000,Carangiformes,Actinopteri,60,benthopelagic,6.43E-04,LC,NA,Atlantic moonfish,Selene
+Seriola dumerili,Carangidae,habitat_reef,0.450960773,25625.99829,21225000,Carangiformes,Actinopteri,190,reef-associated,4.5,LC,NA,Greater amberjack,Seriola
+Seriola lalandi,Carangidae,habitat_reef,0.434484387,3829.661199,18980000,Carangiformes,Actinopteri,250,benthopelagic,4.16,LC,NA,Yellowtail amberjack,Seriola
+Seriola rivoliana,Carangidae,pelagic,0.505844898,58.95087627,19202500,Carangiformes,Actinopteri,160,reef-associated,4.45,LC,NA,Longfin yellowtail,Seriola
+Seriolina nigrofasciata,Carangidae,habitat_reef,0.934625792,7364.200794,11355000,Carangiformes,Actinopteri,70,reef-associated,7.20E-04,LC,NA,Blackbanded trevally,Seriolina
+Trachinotus blochii,Carangidae,habitat_reef,0.842835464,91.9989765,9000000,Carangiformes,Actinopteri,110,reef-associated,6.46E-04,LC,NA,Snubnose pompano,Trachinotus
+Trachinotus carolinus,Carangidae,habitat_coastal,0.842835464,882.2125221,2425000,Carangiformes,Actinopteri,64,benthopelagic,3.5,LC,NA,Florida pompano,Trachinotus
+Trachinotus mookalee,Carangidae,habitat_coastal,0.842835464,485.224006,4482500,Carangiformes,Actinopteri,90,demersal,3.94,LC,NA,Indian pompano,Trachinotus
+Trachurus capensis,Carangidae,pelagic,0.28187887,4582469.683,510000,Carangiformes,Actinopteri,60,pelagic-neritic,5.99E-04,LC,NA,Cape horse mackerel,Trachurus
+Trachurus declivis,Carangidae,pelagic,0.289613477,147861.1578,1517500,Carangiformes,Actinopteri,64,benthopelagic,6.79E-04,LC,NA,Greenback horse mackerel,Trachurus
+Trachurus japonicus,Carangidae,pelagic,0.601339121,3347546.264,525000,Carangiformes,Actinopteri,50,pelagic-neritic,5.87E-04,NT,NA,Japanese jack mackerel,Trachurus
+Trachurus lathami,Carangidae,pelagic,0.704050364,4045.653756,2837500,Carangiformes,Actinopteri,40,reef-associated,3.99,LC,NA,Rough scad,Trachurus
+Trachurus mediterraneus,Carangidae,pelagic,0.392946037,393887.0004,2082500,Carangiformes,Actinopteri,60,pelagic-oceanic,3.77,LC,NA,Mediterranean horse mackerel,Trachurus
+Trachurus murphyi,Carangidae,pelagic,0.246772596,20768573.33,6805000,Carangiformes,Actinopteri,70,pelagic-oceanic,3.33,DD,NA,Chilean jack mackerel,Trachurus
+Trachurus trachurus,Carangidae,pelagic,0.412444993,488326.9372,217500,Carangiformes,Actinopteri,70,pelagic-neritic,3.71,VU,NA,Atlantic horse mackerel,Trachurus
+Trachurus trecae,Carangidae,pelagic,0.478731232,6008973.941,730000,Carangiformes,Actinopteri,35,benthopelagic,6.03E-04,LC,NA,Cunene horse mackerel,Trachurus
+Carcharhinus brachyurus,Carcharhinidae,hms,0.068947601,57.31889037,8752500,Carcharhiniformes,Elasmobranchii,325,reef-associated,4.5,NT,NA,Copper shark,Carcharhinus
+Carcharhinus falciformis,Carcharhinidae,hms,0.06680203,158702.9609,134877500,Carcharhiniformes,Elasmobranchii,350,reef-associated,4.51,VU,119173.5,Silky shark,Carcharhinus
+Carcharhinus falciformis,Carcharhinidae,hms,0.06680203,158702.9609,134877500,Carcharhiniformes,Elasmobranchii,350,reef-associated,4.51,VU,276671,Silky shark,Carcharhinus
+Carcharhinus limbatus,Carcharhinidae,hms,0.09856931,47.1140561,17640000,Carcharhiniformes,Elasmobranchii,275,reef-associated,4.37,NT,NA,Blacktip shark,Carcharhinus
+Carcharhinus longimanus,Carcharhinidae,hms,0.092668397,11059.8223,189070000,Carcharhiniformes,Elasmobranchii,400,pelagic-oceanic,4.16,VU,NA,Oceanic whitetip shark,Carcharhinus
+Carcharhinus sorrah,Carcharhinidae,hms,0.181139577,382248.1056,11227500,Carcharhiniformes,Elasmobranchii,160,reef-associated,4.15,NT,39.83,Spot-tail shark,Carcharhinus
+Carcharhinus sorrah,Carcharhinidae,hms,0.181139577,382248.1056,11227500,Carcharhiniformes,Elasmobranchii,160,reef-associated,4.15,NT,40,Spot-tail shark,Carcharhinus
+Galeocerdo cuvier,Carcharhinidae,hms,0.076209514,190.8948017,17272500,Carcharhiniformes,Elasmobranchii,750,benthopelagic,4.54,NT,6.3,Tiger shark,Galeocerdo
+Prionace glauca,Carcharhinidae,hms,0.055184365,336291.1917,183387500,Carcharhiniformes,Elasmobranchii,400,pelagic-oceanic,4.35,NT,NA,Blue shark,Prionace
+Cerastoderma edule,Cardiidae,sedentary,0.49,210525.2816,2180000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spicara maena,Centracanthidae,habitat_coastal,0.660701605,2117.446045,1555000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Centriscops humerosus,Centriscidae,habitat_benthic,0.865629066,171.3204948,2030000,Syngnathiformes,Actinopteri,30,bathydemersal,6.17E-04,LC,NA,Banded yellowfish,Centriscops
+Hyperoglyphe antarctica,Centrolophidae,habitat_reef,0.180500329,27020.87046,2662500,Scombriformes,Actinopteri,140,benthopelagic,6.82E-04,NA,NA,Bluenose warehou,Hyperoglyphe
+Hyperoglyphe bythites,Centrolophidae,habitat_coastal,0.291890177,80.86603079,77500,Scombriformes,Actinopteri,60,pelagic-oceanic,NA,LC,NA,Black driftfish,Hyperoglyphe
+Psenopsis anomala,Centrolophidae,habitat_coastal,0.702069919,43667.43993,1332500,Scombriformes,Actinopteri,30,benthopelagic,6.91E-04,LC,NA,Pacific rudderfish,Psenopsis
+Seriolella brama,Centrolophidae,habitat_coastal,0.250259896,10298.25278,1212500,Scombriformes,Actinopteri,76,benthopelagic,6.44E-04,NA,NA,Common warehou,Seriolella
+Seriolella caerulea,Centrolophidae,habitat_coastal,0.332338521,24687.53843,1385000,Scombriformes,Actinopteri,65,pelagic-neritic,5.53E-04,LC,NA,White warehou,Seriolella
+Seriolella porosa,Centrolophidae,habitat_coastal,0.319065467,63803.72084,62500,Scombriformes,Actinopteri,44,benthopelagic,5.87E-04,NA,NA,Choicy ruff,Seriolella
+Seriolella punctata,Centrolophidae,migratory,0.261217826,175252.098,1765000,Scombriformes,Actinopteri,66,benthopelagic,6.10E-04,NA,NA,Silver warehou,Seriolella
+Centrophorus granulosus,Centrophoridae,deep,0.044154607,900.9252335,11912500,Squaliformes,Elasmobranchii,170,bathydemersal,4.11,NA,NA,Gulper shark,Centrophorus
+Centrophorus squamosus,Centrophoridae,deep,0.030579908,24156.64543,7857500,Squaliformes,Elasmobranchii,164,bathydemersal,4.47,VU,NA,Leafscale gulper shark,Centrophorus
+Centropomus undecimalis,Centropomidae,habitat_coastal,0.641889095,17095.64486,2412500,Carangaria/misc,Actinopteri,140,reef-associated,4.17,LC,216.43,Common snook,Centropomus
+Centropomus undecimalis,Centropomidae,habitat_coastal,0.641889095,17095.64486,2412500,Carangaria/misc,Actinopteri,140,reef-associated,4.17,LC,224.82,Common snook,Centropomus
+Cepola macrophthalma,Cepolidae,sedentary,0.662762944,468.7347157,2435000,Eupercaria/misc,Actinopteri,80,demersal,5.41E-04,LC,NA,Red bandfish,Cepola
+Champsocephalus gunnari,Channichthyidae,habitat_coastal,0.302585645,19590.15602,492500,Perciformes/Notothenioidei,Actinopteri,66,benthopelagic,3.23,NA,NA,Mackerel icefish,Champsocephalus
+Channichthys rhinoceratus,Channichthyidae,habitat_coastal,0.239394719,856.1592368,250000,Perciformes/Notothenioidei,Actinopteri,60,demersal,5.61E-04,NA,NA,Unicorn icefish,Channichthys
+Cheilodactylus variegatus,Cheilodactylidae,habitat_coastal,0.331364212,8316.033841,160000,Centrarchiformes,Actinopteri,44,benthopelagic,3.65,NA,NA,Peruvian morwong,Cheilodactylus
+Nemadactylus macropterus,Cheilodactylidae,habitat_coastal,0.107300156,51515.11606,1212500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chimaera monstrosa,Chimaeridae,deep,0.115992732,294.9495138,2207500,Chimaeriformes,Holocephali,150,bathydemersal,3.52,NT,NA,Rabbit fish,Chimaera
+Hydrolagus novaezealandiae,Chimaeridae,deep,0.191783416,74948.21149,645000,Chimaeriformes,Holocephali,96,bathydemersal,6.08E-04,LC,NA,Dark ghost shark,Hydrolagus
+Chirocentrus dorab,Chirocentridae,habitat_coastal,0.401375297,53429.31708,10000000,Clupeiformes,Actinopteri,100,reef-associated,7.60E-04,LC,NA,Dorab wolf-herring,Chirocentrus
+Chirocentrus nudus,Chirocentridae,habitat_coastal,0.269567229,75935.1946,9657500,Clupeiformes,Actinopteri,100,pelagic-neritic,7.24E-04,LC,NA,Whitefin wolf-herring,Chirocentrus
+Alosa fallax,Clupeidae,migratory,0.806181057,40.65587962,2272500,Clupeiformes,Actinopteri,60,pelagic-neritic,4.03,LC,NA,Twaite shad,Alosa
+Amblygaster sirm,Clupeidae,habitat_coastal,1.416628191,71364.80881,9910000,Clupeiformes,Actinopteri,27,reef-associated,4.99E-04,LC,NA,Spotted sardinella,Amblygaster
+Anodontostoma chacunda,Clupeidae,habitat_coastal,1.401207267,116060.5257,8597500,Clupeiformes,Actinopteri,22,pelagic-neritic,4.91E-04,LC,NA,Chacunda gizzard shad,Anodontostoma
+Brevoortia aurea,Clupeidae,habitat_coastal,0.938769682,7670.443707,317500,Clupeiformes,Actinopteri,34.40000153,pelagic-neritic,4.75E-04,LC,NA,Brazilian menhaden,Brevoortia
+Brevoortia patronus,Clupeidae,habitat_coastal,0.843108206,1954287.689,485000,Clupeiformes,Actinopteri,35,pelagic-neritic,3.78E-04,LC,NA,Gulf menhaden,Brevoortia
+Brevoortia tyrannus,Clupeidae,migratory,0.724306854,1525972.93,335000,Clupeiformes,Actinopteri,50,pelagic-neritic,3.23,LC,NA,Atlantic menhaden,Brevoortia
+Clupanodon thrissa,Clupeidae,habitat_coastal,1.165208538,44142.96182,1225000,Clupeiformes,Actinopteri,26,pelagic-neritic,NA,LC,NA,Chinese gizzard shad,Clupanodon
+Clupea pallasii,Clupeidae,habitat_coastal,0.56,2246850.522,5050000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Clupeonella cultriventris,Clupeidae,migratory,0.907898346,126214.606,270000,Clupeiformes,Actinopteri,14.5,pelagic-neritic,3,LC,NA,Black and Caspian Sea sprat,Clupeonella
+Ethmalosa fimbriata,Clupeidae,habitat_coastal,0.690830323,740713.1501,467500,Clupeiformes,Actinopteri,46,pelagic-neritic,4.25E-04,LC,NA,Bonga shad,Ethmalosa
+Ethmidium maculatum,Clupeidae,habitat_coastal,1.165208538,32220.37839,310000,Clupeiformes,Actinopteri,31.20000076,pelagic-neritic,2.07,DD,NA,Pacific menhaden,Ethmidium
+Hilsa kelee,Clupeidae,habitat_coastal,1.080199315,59083.71456,6355000,Clupeiformes,Actinopteri,35,pelagic-neritic,4.92E-04,NA,NA,Kelee shad,Hilsa
+Konosirus punctatus,Clupeidae,habitat_coastal,0.792958456,134189.8396,495000,Clupeiformes,Actinopteri,32,pelagic-neritic,5.08E-04,LC,NA,Dotted gizzard shad,Konosirus
+Nematalosa nasus,Clupeidae,habitat_coastal,1.124180083,1490.27369,3562500,Clupeiformes,Actinopteri,25.5,pelagic-neritic,3.82E-04,LC,NA,Bloch's gizzard shad,Nematalosa
+Opisthonema libertate,Clupeidae,habitat_coastal,0.701094271,579556.2461,520000,Clupeiformes,Actinopteri,30,pelagic-neritic,4.99E-04,LC,NA,Pacific thread herring,Opisthonema
+Sardinella brasiliensis,Clupeidae,habitat_coastal,0.788212212,249674.3961,2745000,Clupeiformes,Actinopteri,27,pelagic-neritic,5.35E-04,DD,NA,Brazilian sardinella,Sardinella
+Sardinella gibbosa,Clupeidae,habitat_coastal,1.234370494,582774.7402,11190000,Clupeiformes,Actinopteri,29.60000038,pelagic-neritic,4.92E-04,LC,NA,Goldstripe sardinella,Sardinella
+Sardinella lemuru,Clupeidae,habitat_coastal,1.196835699,119056.7228,6505000,Clupeiformes,Actinopteri,23,pelagic-neritic,4.28E-04,NT,NA,Bali sardinella,Sardinella
+Sardinella longiceps,Clupeidae,migratory,1.069202758,1566716.714,567500,Clupeiformes,Actinopteri,23,pelagic-neritic,4.16E-04,LC,NA,Indian oil sardine,Sardinella
+Sardinella maderensis,Clupeidae,migratory,0.810888202,752685.4111,1292500,Clupeiformes,Actinopteri,30,pelagic,5.53E-04,VU,NA,Madeiran sardinella,Sardinella
+Sardinella zunasi,Clupeidae,habitat_coastal,0.938471573,13365.10594,567500,Clupeiformes,Actinopteri,18,pelagic-neritic,3.17,LC,NA,Japanese sardinella,Sardinella
+Sprattus fuegensis,Clupeidae,habitat_coastal,0.593471516,12980.05344,282500,Clupeiformes,Actinopteri,18,pelagic-neritic,4.49E-04,LC,NA,Falkland sprat,Sprattus
+Sprattus sprattus,Clupeidae,migratory,0.475566882,1598196.411,1992500,Clupeiformes,Actinopteri,16,pelagic-neritic,5.20E-04,LC,NA,European sprat,Sprattus
+Sprattus sprattus,Clupeidae,migratory,0.475566882,1598196.411,1992500,Clupeiformes,Actinopteri,16,pelagic-neritic,NA,LC,NA,European sprat,Sprattus
+Tenualosa ilisha,Clupeidae,migratory,1.644075154,1062830.659,1715000,Clupeiformes,Actinopteri,60,pelagic-neritic,4.99E-04,LC,NA,Hilsa shad,Tenualosa
+Tenualosa toli,Clupeidae,habitat_coastal,2.001580709,7197.743231,2412500,Clupeiformes,Actinopteri,60,pelagic-neritic,4.28E-04,VU,NA,Toli shad,Tenualosa
+Conger conger,Congridae,habitat_benthic,0.208342505,123532.8338,3262500,Anguilliformes,Actinopteri,300,demersal,4.31,LC,6.04E-04,European conger,Conger
+Conger myriaster,Congridae,habitat_benthic,0.269522379,265480.4857,1475000,Anguilliformes,Actinopteri,100,bathydemersal,6.87E-04,LC,NA,Whitespotted conger,Conger
+Conger oceanicus,Congridae,territorial,0.269522379,485.7036385,1605000,Anguilliformes,Actinopteri,230,demersal,4.5,LC,NA,American conger,Conger
+Coryphaena hippurus,Coryphaenidae,hms,0.795560345,293986.8201,197602500,Carangiformes,Actinopteri,210,pelagic-neritic,4.37,LC,NA,Common dolphinfish,Coryphaena
+Scorpaenichthys marmoratus,Cottidae,habitat_benthic,0.3221761,2570.023043,410000,Perciformes/Cottoidei,Actinopteri,99,demersal,6.25E-04,NA,0.003297,Cabezon,Scorpaenichthys
+Cyclopterus lumpus,Cyclopteridae,migratory,0.14428799,195061.7514,4235000,Perciformes/Cottoidei,Actinopteri,61,benthopelagic,3.89,NA,NA,Lumpfish,Cyclopterus
+Cyttus traversi,Cyttidae,habitat_deep,0.43137965,2574.854885,1740000,Zeiformes,Actinopteri,54,bathydemersal,6.79E-04,NA,NA,King dory,Cyttus
+Dalatias licha,Dalatiidae,deep,0.129505952,7554.000327,19080000,Squaliformes,Elasmobranchii,182,bathydemersal,4.23,VU,NA,Kitefin shark,Dalatias
+Dasyatis americana,Dasyatidae,habitat_benthic,0.540493435,8624.689406,2182500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dasyatis pastinaca,Dasyatidae,habitat_benthic,0.526833271,9.270485116,3067500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Himantura gerrardi,Dasyatidae,habitat_benthic,0.400157417,873.2363439,7215000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tragulichthys jaculiferus,Diodontidae,habitat_benthic,0.824040474,36.2166677,1675000,Tetraodontiformes,Actinopteri,30,reef-associated,6.05E-04,NA,NA,Longspine burrfish,Tragulichthys
+Drepane africana,Drepaneidae,habitat_coastal,0.477805346,20718.22779,545000,Acanthuriformes,Actinopteri,45,benthopelagic,5.35E-04,LC,NA,African sicklefish,Drepane
+Drepane punctata,Drepaneidae,habitat_coastal,0.537312901,12343.76467,9855000,Acanthuriformes,Actinopteri,50,reef-associated,5.73E-04,NA,NA,Spotted sicklefish,Drepane
+Dussumieria acuta,Dussumieriidae,habitat_coastal,0.8976476,166890.2184,3960000,Clupeiformes,Actinopteri,20,pelagic-neritic,5.87E-04,LC,NA,Rainbow sardine,Dussumieria
+Dussumieria elopsoides,Dussumieriidae,habitat_coastal,0.787176662,749.7783262,9642500,Clupeiformes,Actinopteri,20,pelagic-neritic,5.87E-04,LC,NA,Slender rainbow sardine,Dussumieria
+Etrumeus whiteheadi,Dussumieriidae,habitat_coastal,0.423849558,402624.5557,227500,Clupeiformes,Actinopteri,22,pelagic-neritic,5.87E-04,LC,NA,Whitehead's round herring,Etrumeus
+Eledone cirrhosa,Eledonidae,habitat_benthic,0.54,4542.333333,2702500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Eleginops maclovinus,Eleginopsidae,habitat_coastal,0.185246372,20908.65242,855000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Elops lacerta,Elopidae,habitat_coastal,0.593623907,10312.44854,542500,Elopiformes,Actinopteri,100,pelagic-neritic,7.32E-04,LC,NA,West African ladyfish,Elops
+Elops saurus,Elopidae,habitat_coastal,0.57364079,2233.495287,7810000,Elopiformes,Actinopteri,100,reef-associated,3.49,LC,NA,Ladyfish,Elops
+Plagiogeneion rubiginosum,Emmelichthyidae,deep,0.467322973,3246.226032,1440000,Eupercaria/misc,Actinopteri,60,bathydemersal,5.87E-04,NA,NA,Rubyfish,Plagiogeneion
+Anchoa nasus,Engraulidae,habitat_coastal,1.296884333,7225.316677,865000,Clupeiformes,Actinopteri,17,pelagic-neritic,3.33,LC,NA,Longnose anchovy,Anchoa
+Cetengraulis edentulus,Engraulidae,habitat_coastal,0.508114702,7724.578696,1587500,Clupeiformes,Actinopteri,18.20000076,pelagic-neritic,3.64E-04,LC,NA,Atlantic anchoveta,Cetengraulis
+Cetengraulis mysticetus,Engraulidae,habitat_coastal,0.827513259,1118371.615,595000,Clupeiformes,Actinopteri,22,pelagic-neritic,4.27E-04,LC,NA,Pacific anchoveta,Cetengraulis
+Encrasicholina punctifer,Engraulidae,pelagic,1.630046044,1435.9987,8592500,Clupeiformes,Actinopteri,13,reef-associated,3.29,LC,NA,Buccaneer anchovy,Encrasicholina
+Engraulis anchoita,Engraulidae,migratory,0.639382033,3526933.356,967500,Clupeiformes,Actinopteri,17,pelagic-neritic,4.34E-04,NT,NA,Argentine anchovy,Engraulis
+Epigonus telescopus,Epigonidae,habitat_deep,0.097286004,27383.17839,8827500,Acropomatiformes,Actinopteri,75,bathydemersal,3.59,LC,NA,Black cardinal fish,Epigonus
+Etmopterus spinax,Etmopteridae,deep,0.042138731,193.8359265,4395000,Squaliformes,Elasmobranchii,60,bathydemersal,4.14,LC,NA,Velvet belly,Etmopterus
+Fistularia corneta,Fistulariidae,habitat_reef,0.858533703,2562.317579,792500,Syngnathiformes,Actinopteri,106,pelagic-neritic,7.77E-04,LC,NA,Pacific cornetfish,Fistularia
+Boreogadus saida,Gadidae,migratory,0.37076155,272362.6872,4780000,Gadiformes,Actinopteri,40,demersal,3.12,NA,NA,Polar cod,Boreogadus
+Eleginus gracilis,Gadidae,habitat_coastal,0.307311992,285654.0008,3077500,Gadiformes,Actinopteri,55,demersal,4.1,NA,NA,Saffron cod,Eleginus
+Gadiculus argenteus,Gadidae,habitat_deep,0.917086686,159.7449863,1740000,Gadiformes,Actinopteri,15.25,pelagic-oceanic,3.6,NA,NA,Silvery pout,Gadiculus
+Gadus macrocephalus,Gadidae,habitat_deep,0.254822292,6522800.569,2920000,Gadiformes,Actinopteri,119,demersal,3.78,NA,NA,Pacific cod,Gadus
+Gadus macrocephalus,Gadidae,habitat_deep,0.254822292,6522800.569,2920000,Gadiformes,Actinopteri,119,demersal,4.16,NA,NA,Pacific cod,Gadus
+Gadus ogac,Gadidae,habitat_coastal,0.384594927,13904.11477,3275000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Merlangius merlangus,Gadidae,migratory,0.396282595,1703782.33,2155000,Gadiformes,Actinopteri,91.5,benthopelagic,4.36,LC,NA,Whiting,Merlangius
+Microgadus tomcod,Gadidae,habitat_coastal,0.46107757,1410.13149,632500,Gadiformes,Actinopteri,38.09999847,demersal,6.58E-04,LC,NA,Atlantic tomcod,Microgadus
+Micromesistius australis,Gadidae,migratory,0.138834909,4803885.609,1522500,Gadiformes,Actinopteri,90,benthopelagic,5.77E-04,NA,NA,Southern blue whiting,Micromesistius
+Pollachius pollachius,Gadidae,habitat_coastal,0.437336923,77783.54454,1365000,Gadiformes,Actinopteri,130,benthopelagic,4.32,LC,0.00905641,Pollack,Pollachius
+Pollachius virens,Gadidae,migratory,0.292771348,6187928.593,1737500,Gadiformes,Actinopteri,130,demersal,4.31,NA,0.04451615,Saithe,Pollachius
+Trisopterus esmarkii,Gadidae,migratory,0.615787528,999790.3889,1107500,Gadiformes,Actinopteri,35,benthopelagic,3.24,LC,NA,Norway pout,Trisopterus
+Trisopterus luscus,Gadidae,habitat_coastal,0.880553021,61292.12745,1130000,Gadiformes,Actinopteri,46,benthopelagic,3.73,NA,NA,Pouting,Trisopterus
+Trisopterus minutus,Gadidae,habitat_benthic,0.709260995,6807.29384,1602500,Gadiformes,Actinopteri,40,benthopelagic,3.73,NA,NA,Poor cod,Trisopterus
+Lepidocybium flavobrunneum,Gempylidae,migratory,0.41595686,2435.848754,14260000,Scombriformes,Actinopteri,200,benthopelagic,7.50E-04,LC,NA,Escolar,Lepidocybium
+Promethichthys prometheus,Gempylidae,habitat_deep,0.2825668,204.2702824,16325000,Scombriformes,Actinopteri,100,benthopelagic,7.22E-04,LC,NA,Roudi escolar,Promethichthys
+Rexea solandri,Gempylidae,migratory,0.234913051,53157.31914,1292500,Scombriformes,Actinopteri,110,benthopelagic,7.44E-04,NA,NA,Silver gemfish,Rexea
+Ruvettus pretiosus,Gempylidae,migratory,0.41595686,59440.96218,13672500,Scombriformes,Actinopteri,300,benthopelagic,7.22E-04,LC,NA,Oilfish,Ruvettus
+Thyrsites atun,Gempylidae,habitat_coastal,0.349062752,709214.8872,2655000,Scombriformes,Actinopteri,200,benthopelagic,3.63,NA,NA,Snoek,Thyrsites
+Diapterus auratus,Gerreidae,habitat_coastal,1.366610205,1378.245233,2477500,Eupercaria/misc,Actinopteri,42.79999924,demersal,2.44,LC,NA,Irish mojarra,Diapterus
+Gerres nigri,Gerreidae,habitat_benthic,1.495810086,1825.975119,572500,Eupercaria/misc,Actinopteri,20,benthopelagic,5.51E-04,LC,NA,Guinean striped mojarra,Gerres
+Gerres oblongus,Gerreidae,habitat_reef,1.495810086,14.31732558,9027500,Eupercaria/misc,Actinopteri,30,reef-associated,6.05E-04,LC,NA,Slender silver-biddy,Gerres
+Gerres oyena,Gerreidae,habitat_coastal,1.594337758,563.1579604,8420000,Eupercaria/misc,Actinopteri,30,reef-associated,4.70E-04,LC,NA,Common silver-biddy,Gerres
+Chaceon affinis,Geryonidae,habitat_benthic,0.42,3170.457143,3197500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chaceon fenneri,Geryonidae,habitat_benthic,0.42,3995.209524,302500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chaceon maritae,Geryonidae,habitat_benthic,0.42,30202.6381,1035000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chaceon quinquedens,Geryonidae,habitat_benthic,0.42,8083.733083,250000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ginglymostoma cirratum,Ginglymostomatidae,habitat_reef,0.072183417,2984.175729,3287500,Orectolobiformes,Elasmobranchii,430,reef-associated,4.15,DD,NA,Nurse shark,Ginglymostoma
+Aphia minuta,Gobiidae,habitat_coastal,1.70140334,40.81806963,2717500,Gobiiformes,Actinopteri,7.900000095,pelagic-neritic,5.35E-04,NA,NA,Transparent goby,Aphia
+Gymnura altavela,Gymnuridae,habitat_benthic,0.329012817,84.8842312,5077500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brachydeuterus auritus,Haemulidae,habitat_coastal,0.674190072,160285.9801,650000,Eupercaria/misc,Actinopteri,30,benthopelagic,5.23E-04,NT,NA,Bigeye grunt,Brachydeuterus
+Conodon nobilis,Haemulidae,habitat_benthic,0.654886592,8375.276066,2602500,Eupercaria/misc,Actinopteri,33.59999847,demersal,3.61,LC,NA,Barred grunt,Conodon
+Diagramma pictum,Haemulidae,habitat_reef,0.515127504,13.09966939,11305000,Eupercaria/misc,Actinopteri,100,reef-associated,3.7,NA,NA,Painted sweetlips,Diagramma
+Isacia conceptionis,Haemulidae,habitat_coastal,0.654886592,12174.16282,300000,Eupercaria/misc,Actinopteri,60,benthopelagic,5.03E-04,LC,NA,Cabinza grunt,Isacia
+Plectorhinchus gaterinus,Haemulidae,habitat_reef,0.44710991,674.6529054,2390000,Eupercaria/misc,Actinopteri,50,reef-associated,6.89E-04,NA,NA,Blackspotted rubberlip,Plectorhinchus
+Plectorhinchus mediterraneus,Haemulidae,habitat_benthic,0.294570293,1699.859126,890000,Eupercaria/misc,Actinopteri,80,demersal,6.03E-04,DD,NA,Rubberlip grunt,Plectorhinchus
+Plectorhinchus pictus,Haemulidae,habitat_reef,0.288603199,47.9135368,12412500,Eupercaria/misc,Actinopteri,83,reef-associated,3.85,NA,NA,Trout sweetlips,Plectorhinchus
+Plectorhinchus schotaf,Haemulidae,habitat_reef,0.44710991,420.8092813,10495000,Eupercaria/misc,Actinopteri,80,reef-associated,3.633333333,NA,NA,Minstrel sweetlips,Plectorhinchus
+Plectorhinchus sordidus,Haemulidae,habitat_reef,0.549660927,81.92687122,1287500,Eupercaria/misc,Actinopteri,60,reef-associated,6.89E-04,NA,NA,Sordid rubberlip,Plectorhinchus
+Pomadasys argenteus,Haemulidae,habitat_coastal,0.805877969,7362.777276,10752500,Eupercaria/misc,Actinopteri,70,demersal,3.47,LC,NA,Silver grunt,Pomadasys
+Pomadasys jubelini,Haemulidae,habitat_coastal,0.753408033,9092.602815,640000,Eupercaria/misc,Actinopteri,60,demersal,5.75E-04,LC,NA,Sompat grunt,Pomadasys
+Pomadasys kaakan,Haemulidae,habitat_coastal,0.626947046,103598.7719,10845000,Eupercaria/misc,Actinopteri,80,reef-associated,5.98E-04,NA,NA,Javelin grunter,Pomadasys
+Pomadasys stridens,Haemulidae,habitat_coastal,0.778971593,1056.79335,2142500,Eupercaria/misc,Actinopteri,20,reef-associated,6.94E-04,NA,NA,Striped piggy,Pomadasys
+Haliotis rubra,Haliotidae,sedentary,0.57,34930.89123,462500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hemiramphus balao,Hemiramphidae,pelagic,0.889101666,65.16240182,2820000,Beloniformes,Actinopteri,40,reef-associated,3.85,LC,NA,Balao halfbeak,Hemiramphus
+Hemiramphus brasiliensis,Hemiramphidae,habitat_coastal,0.747224435,6751.508337,2202500,Beloniformes,Actinopteri,55,reef-associated,2.28,LC,NA,Ballyhoo halfbeak,Hemiramphus
+Hexagrammos decagrammus,Hexagrammidae,habitat_reef,0.340852342,962.2935206,1112500,Perciformes/Cottoidei,Actinopteri,61,demersal,6.20E-04,NA,NA,Kelp greenling,Hexagrammos
+Ophiodon elongatus,Hexagrammidae,migratory,0.142917331,146170.9286,722500,Perciformes/Cottoidei,Actinopteri,152,demersal,4.53,NA,0.001139,Lingcod,Ophiodon
+Ophiodon elongatus,Hexagrammidae,migratory,0.142917331,146170.9286,722500,Perciformes/Cottoidei,Actinopteri,152,demersal,4.53,NA,0.00282,Lingcod,Ophiodon
+Pleurogrammus azonus,Hexagrammidae,habitat_benthic,0.159533503,3626343.234,667500,Perciformes/Cottoidei,Actinopteri,62,demersal,3.38,NA,NA,Okhotsk atka mackerel,Pleurogrammus
+Pleurogrammus monopterygius,Hexagrammidae,habitat_coastal,0.076601039,4019520.817,1715000,Perciformes/Cottoidei,Actinopteri,56.5,demersal,3.38,NA,NA,Atka mackerel,Pleurogrammus
+Hexanchus griseus,Hexanchidae,deep,0.164192051,336.9225229,38262500,NA,NA,482,bathydemersal,4.48,NT,NA,Bluntnose sixgill shark,Hexanchus
+Hexanchus griseus,Hexanchidae,deep,0.164192051,336.9225229,38262500,Hexanchiformes,Elasmobranchii,482,bathydemersal,4.48,NT,NA,Bluntnose sixgill shark,Hexanchus
+Panopea generosa,Hiatellidae,sedentary,0.37,69436.85405,287500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Istiophorus albicans,Istiophoridae,hms,0.577528565,11818.70765,18742500,Carangiformes,Actinopteri,315,pelagic-oceanic,4.5,NA,NA,Atlantic sailfish,Istiophorus
+Istiophorus platypterus,Istiophoridae,hms,0.466166849,229747.1649,194122500,Carangiformes,Actinopteri,348,pelagic-oceanic,4.5,LC,1894,Indo-Pacific sailfish,Istiophorus
+Istiophorus platypterus,Istiophoridae,hms,0.466166849,229747.1649,194122500,Carangiformes,Actinopteri,348,pelagic-oceanic,4.5,LC,52099.5,Indo-Pacific sailfish,Istiophorus
+Istiophorus platypterus,Istiophoridae,hms,0.466166849,229747.1649,194122500,Carangiformes,Actinopteri,348,pelagic-oceanic,4.5,LC,974000,Indo-Pacific sailfish,Istiophorus
+Makaira nigricans,Istiophoridae,hms,0.267854308,407196.1454,191340000,Carangiformes,Actinopteri,500,pelagic-oceanic,4.49,VU,28773,Blue marlin,Makaira
+Makaira nigricans,Istiophoridae,hms,0.267854308,407196.1454,191340000,Carangiformes,Actinopteri,500,pelagic-oceanic,4.49,VU,114012,Blue marlin,Makaira
+Tetrapturus angustirostris,Istiophoridae,hms,0.48980251,422.4151485,156842500,Carangiformes,Actinopteri,230,pelagic-oceanic,7.77E-04,DD,NA,Shortbill spearfish,Tetrapturus
+Tetrapturus belone,Istiophoridae,hms,0.48980251,36.2268458,2882500,Carangiformes,Actinopteri,240,pelagic-oceanic,7.51E-04,LC,NA,Mediterranean spearfish,Tetrapturus
+Tetrapturus pfluegeri,Istiophoridae,hms,0.48980251,882.5026234,40682500,Carangiformes,Actinopteri,254,pelagic-oceanic,4.4,LC,NA,Longbill spearfish,Tetrapturus
+Girella tricuspidata,Kyphosidae,habitat_coastal,0.177693385,9809.279051,545000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Labrus bergylta,Labridae,habitat_reef,0.2079384,832.7850932,872500,Eupercaria/misc,Actinopteri,65.90000153,reef-associated,3.2,LC,0.00402859,Ballan wrasse,Labrus
+Labrus bergylta,Labridae,habitat_reef,0.2079384,832.7850932,872500,Eupercaria/misc,Actinopteri,65.90000153,reef-associated,3.2,LC,0.091,Ballan wrasse,Labrus
+Labrus bergylta,Labridae,habitat_reef,0.2079384,832.7850932,872500,Eupercaria/misc,Actinopteri,65.90000153,reef-associated,3.2,LC,0.133,Ballan wrasse,Labrus
+Tautoga onitis,Labridae,habitat_coastal,0.359313762,859.9392305,415000,Eupercaria/misc,Actinopteri,91,reef-associated,5.73E-04,VU,NA,Tautog,Tautoga
+Tautogolabrus adspersus,Labridae,habitat_coastal,0.542139383,17.04358747,990000,Eupercaria/misc,Actinopteri,38,reef-associated,3.72,LC,NA,Cunner,Tautogolabrus
+Lactarius lactarius,Lactariidae,habitat_coastal,0.894172771,71361.18439,10862500,Carangaria/misc,Actinopteri,40,pelagic-neritic,4.17,NA,NA,False trevally,Lactarius
+Isurus oxyrinchus,Lamnidae,migratory,0.089718159,13438.87092,231972500,NA,NA,445,pelagic-oceanic,4.5,VU,NA,Shortfin mako,Isurus
+Isurus oxyrinchus,Lamnidae,migratory,0.089718159,13438.87092,231972500,Lamniformes,Elasmobranchii,445,pelagic-oceanic,4.5,VU,NA,Shortfin mako,Isurus
+Lamna nasus,Lamnidae,migratory,0.04407999,5256.276586,65807500,NA,NA,350,pelagic-oceanic,4.57,VU,NA,Porbeagle,Lamna
+Lamna nasus,Lamnidae,migratory,0.04407999,5256.276586,65807500,Lamniformes,Elasmobranchii,350,pelagic-oceanic,4.57,VU,NA,Porbeagle,Lamna
+Lampris guttatus,Lampridae,pelagic,0.605257327,2613.572655,271130000,Lampriformes,Actinopteri,200,bathypelagic,7.29E-04,LC,NA,Opah,Lampris
+Lateolabrax japonicus,Lateolabracidae,habitat_reef,0.280379763,104691.8211,1177500,Acropomatiformes,Actinopteri,102,reef-associated,3.1,NA,NA,Japanese seabass,Lateolabrax
+Lates calcarifer,Latidae,habitat_coastal,0.707443985,495833.8181,8162500,Carangaria/misc,Actinopteri,200,demersal,6.62E-04,NA,NA,Barramundi,Lates
+Lethrinus atlanticus,Lethrinidae,habitat_reef,0.429583095,599.9491202,447500,Eupercaria/misc,Actinopteri,50,reef-associated,6.11E-04,LC,NA,Atlantic emperor,Lethrinus
+Lethrinus borbonicus,Lethrinidae,habitat_reef,0.636246008,1859.123649,2240000,Eupercaria/misc,Actinopteri,40,reef-associated,5.99E-04,NA,NA,Snubnose emperor,Lethrinus
+Lethrinus lentjan,Lethrinidae,habitat_reef,0.428074524,52998.41671,11545000,Eupercaria/misc,Actinopteri,52,reef-associated,3.94,LC,NA,Pink ear emperor,Lethrinus
+Lethrinus mahsena,Lethrinidae,habitat_reef,0.322404193,3394.310692,2142500,Eupercaria/misc,Actinopteri,65,reef-associated,5.92E-04,NA,NA,Sky emperor,Lethrinus
+Lethrinus microdon,Lethrinidae,habitat_reef,0.404758161,631.1027783,11337500,Eupercaria/misc,Actinopteri,80,reef-associated,6.55E-04,LC,NA,Smalltooth emperor,Lethrinus
+Lithodes santolla,Lithodidae,habitat_benthic,0.57,45490.50526,1657500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Loligo vulgaris,Loliginidae,migratory,0.34,475.4823529,2607500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lophius americanus,Lophiidae,habitat_benthic,0.342918037,324637.0575,1295000,Lophiiformes,Actinopteri,120,demersal,4.51,NA,NA,American angler,Lophius
+Lophius budegassa,Lophiidae,habitat_benthic,0.402594383,1042.766525,2537500,Lophiiformes,Actinopteri,100,bathydemersal,4.41,DD,NA,Blackbellied angler,Lophius
+Lophius gastrophysus,Lophiidae,habitat_benthic,0.424921798,26440.60164,3115000,Lophiiformes,Actinopteri,60,bathydemersal,4.49,LC,NA,Blackfin goosefish,Lophius
+Lophius piscatorius,Lophiidae,habitat_benthic,0.394021904,106902.5645,3087500,Lophiiformes,Actinopteri,200,bathydemersal,4.45,LC,NA,Angler,Lophius
+Lophius vomerinus,Lophiidae,habitat_benthic,0.446457287,9136.97261,360000,Lophiiformes,Actinopteri,100,bathydemersal,7.70E-04,NT,NA,Devil anglerfish,Lophius
+Brosme brosme,Lotidae,habitat_benthic,0.105232173,881179.7128,2245000,Gadiformes,Actinopteri,120,demersal,3.9,NA,NA,Cusk,Brosme
+Molva dypterygia,Lotidae,habitat_benthic,0.12236097,190950.5942,2642500,Gadiformes,Actinopteri,155,demersal,4.49,NA,NA,Blue ling,Molva
+Molva molva,Lotidae,habitat_benthic,0.111647026,1109512.435,1615000,Gadiformes,Actinopteri,200,demersal,4.4,NA,NA,Ling,Molva
+Aphareus rutilans,Lutjanidae,habitat_reef,0.312215755,1738.87445,9965000,Eupercaria/misc,Actinopteri,110,reef-associated,7.10E-04,LC,NA,Rusty jobfish,Aphareus
+Aprion virescens,Lutjanidae,habitat_reef,0.58848637,113.3144342,12892500,Eupercaria/misc,Actinopteri,112,reef-associated,4.28,LC,NA,Green jobfish,Aprion
+Apsilus fuscus,Lutjanidae,habitat_reef,0.591196273,3.139397329,512500,Eupercaria/misc,Actinopteri,75,demersal,6.89E-04,LC,NA,African forktail snapper,Apsilus
+Lutjanus argentimaculatus,Lutjanidae,habitat_reef,0.345913558,81911.08825,13092500,Eupercaria/misc,Actinopteri,150,reef-associated,3.58,LC,NA,Mangrove red snapper,Lutjanus
+Lutjanus bohar,Lutjanidae,habitat_reef,0.402942588,2388.102002,12705000,Eupercaria/misc,Actinopteri,90,reef-associated,4.27,LC,NA,Two-spot red snapper,Lutjanus
+Lutjanus johnii,Lutjanidae,habitat_reef,0.365000513,40553.99237,11712500,Eupercaria/misc,Actinopteri,97,reef-associated,4.2,LC,NA,John's snapper,Lutjanus
+Lutjanus malabaricus,Lutjanidae,habitat_reef,0.299989449,2714.095459,10885000,Eupercaria/misc,Actinopteri,100,reef-associated,4.48,NA,NA,Malabar blood snapper,Lutjanus
+Lutjanus peru,Lutjanidae,habitat_reef,0.268598097,3033.722169,502500,Eupercaria/misc,Actinopteri,95,reef-associated,6.94E-04,LC,NA,Pacific red snapper,Lutjanus
+Lutjanus purpureus,Lutjanidae,habitat_reef,0.307978176,50541.7241,1527500,Eupercaria/misc,Actinopteri,100,demersal,3.58,NA,NA,Southern red snapper,Lutjanus
+Lutjanus quinquelineatus,Lutjanidae,habitat_reef,0.326846869,1784.884776,9740000,Eupercaria/misc,Actinopteri,38,reef-associated,3.68,LC,NA,Five-lined snapper,Lutjanus
+Lutjanus vivanus,Lutjanidae,habitat_reef,0.251652933,230.3172043,2635000,Eupercaria/misc,Actinopteri,83,reef-associated,3.09,LC,NA,Silk snapper,Lutjanus
+Rhomboplites aurorubens,Lutjanidae,habitat_reef,0.392796509,44476.29138,3140000,Eupercaria/misc,Actinopteri,60,demersal,4.36,VU,NA,Vermilion snapper,Rhomboplites
+Coelorinchus chilensis,Macrouridae,habitat_deep,0.207374079,1276.456542,287500,Gadiformes,Actinopteri,48,bathydemersal,3.853333333,NA,NA,Chilean grenadier,Coelorinchus
+Coryphaenoides rupestris,Macrouridae,habitat_deep,0.071986899,511478.7341,2527500,Gadiformes,Actinopteri,110,bathypelagic,6.17E-04,CR,NA,Roundnose grenadier,Coryphaenoides
+Lepidorhynchus denticulatus,Macrouridae,habitat_deep,0.176141849,38250.58067,1452500,Gadiformes,Actinopteri,55,bathypelagic,6.34E-04,NA,NA,Thorntooth grenadier,Lepidorhynchus
+Macrourus berglax,Macrouridae,habitat_deep,0.087752099,11489.68524,2517500,Gadiformes,Actinopteri,110,benthopelagic,6.41E-04,NA,NA,Roughhead grenadier,Macrourus
+Macrourus carinatus,Macrouridae,habitat_deep,0.130908793,51584.77013,1895000,Gadiformes,Actinopteri,100,bathydemersal,6.39E-04,NA,NA,Ridge scaled rattail,Macrourus
+Macrourus whitsoni,Macrouridae,habitat_deep,0.130908793,787.8156811,31287500,Gadiformes,Actinopteri,75,bathypelagic,5.99E-04,NA,NA,Whitson's grenadier,Macrourus
+Spisula solida,Mactridae,sedentary,0.47,39140.70638,937500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spisula solidissima,Mactridae,sedentary,0.47,673238.5957,807500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Caulolatilus microps,Malacanthidae,sedentary,0.345533078,1087.212843,545000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Caulolatilus princeps,Malacanthidae,habitat_reef,0.360639419,12.12291218,812500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lopholatilus chamaeleonticeps,Malacanthidae,sedentary,0.144930708,36594.78421,1915000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Malacanthus plumieri,Malacanthidae,habitat_benthic,0.401639123,4.481635119,2252500,Eupercaria/misc,Actinopteri,70,reef-associated,3.71,LC,NA,Sand tilefish,Malacanthus
+Megalops atlanticus,Megalopidae,migratory,0.14988181,27873.80277,3672500,Elopiformes,Actinopteri,250,reef-associated,4.5,VU,NA,Tarpon,Megalops
+Megalops cyprinoides,Megalopidae,habitat_coastal,0.219631114,12359.30533,11922500,Elopiformes,Actinopteri,150,benthopelagic,3.48,DD,NA,Indo-Pacific tarpon,Megalops
+Mene maculata,Menidae,habitat_reef,0.681372715,161394.3581,6955000,Carangaria/misc,Actinopteri,30,reef-associated,5.96E-04,NA,NA,Moonfish,Mene
+Macruronus magellanicus,Merlucciidae,migratory,0.102087029,10114667.53,1657500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Macruronus novaezelandiae,Merlucciidae,deep,0.09872889,10620171.1,2342500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Merluccius albidus,Merlucciidae,pelagic,0.365328316,93.99764124,1745000,Gadiformes,Actinopteri,40.59999847,bathydemersal,3.43,LC,NA,Offshore silver hake,Merluccius
+Merluccius australis,Merlucciidae,migratory,0.056425285,2070706.181,1232500,Gadiformes,Actinopteri,155,benthopelagic,7.69E-04,NA,NA,Southern hake,Merluccius
+Merluccius bilinearis,Merlucciidae,migratory,0.154190389,1677048.67,925000,Gadiformes,Actinopteri,76,demersal,4.49,NT,NA,Silver hake,Merluccius
+Merluccius capensis,Merlucciidae,migratory,0.137980456,11042114.97,535000,Gadiformes,Actinopteri,140,bathydemersal,6.70E-04,LC,NA,Shallow-water Cape hake,Merluccius
+Merluccius gayi,Merlucciidae,migratory,0.418,559145.3206,465000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Merluccius hubbsi,Merlucciidae,migratory,0.227029036,12678405.6,1412500,Gadiformes,Actinopteri,95,benthopelagic,7.31E-04,NA,NA,Argentine hake,Merluccius
+Merluccius merluccius,Merlucciidae,habitat_deep,0.310269594,1544926.732,2487500,Gadiformes,Actinopteri,140,demersal,4.42,LC,NA,European hake,Merluccius
+Merluccius polli,Merlucciidae,habitat_deep,0.234269326,22200.7173,630000,Gadiformes,Actinopteri,80,bathydemersal,7.77E-04,LC,NA,Benguela hake,Merluccius
+Merluccius senegalensis,Merlucciidae,migratory,0.196314064,301939.4071,47500,Gadiformes,Actinopteri,81,demersal,7.77E-04,EN,NA,Senegalese hake,Merluccius
+Stephanolepis cirrhifer,Monacanthidae,habitat_coastal,0.842910887,270394.69,242500,Tetraodontiformes,Actinopteri,30,demersal,4.91E-04,LC,NA,Threadsail filefish,Stephanolepis
+Antimora rostrata,Moridae,deep,0.11723796,486.5318366,222710000,Gadiformes,Actinopteri,75,bathypelagic,6.18E-04,LC,NA,Blue antimora,Antimora
+Mora moro,Moridae,deep,0.146467431,10677.45905,56435000,Gadiformes,Actinopteri,80,bathypelagic,6.48E-04,LC,NA,Common mora,Mora
+Pseudophycis bachus,Moridae,habitat_benthic,0.201482529,135606.815,1075000,Gadiformes,Actinopteri,90,demersal,3.93,NA,NA,Red codling,Pseudophycis
+Salilota australis,Moridae,deep,0.246865935,96078.23777,1077500,Gadiformes,Actinopteri,50,demersal,4.41,NA,NA,Tadpole codling,Salilota
+Dicentrarchus punctatus,Moronidae,habitat_coastal,0.492643838,1535.080603,1585000,Eupercaria/misc,Actinopteri,70,pelagic-neritic,6.81E-04,LC,NA,Spotted seabass,Dicentrarchus
+Joturus pichardi,Mugilidae,habitat_coastal,0.636414723,2036.175397,587500,Mugiliformes,Actinopteri,61,pelagic-neritic,5.03E-04,NA,NA,Bobo mullet,Joturus
+Liza aurata,Mugilidae,habitat_coastal,0.460574466,1.120340007,2092500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liza klunzingeri,Mugilidae,habitat_coastal,0.490272764,7295.383848,580000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Liza saliens,Mugilidae,habitat_coastal,0.49806001,44.40428774,1445000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mugil cephalus,Mugilidae,habitat_coastal,0.277257899,1218548.744,15862500,Mugiliformes,Actinopteri,100,benthopelagic,4.28E-04,LC,NA,Flathead grey mullet,Mugil
+Mugil curema,Mugilidae,habitat_coastal,0.519755415,5777.702193,5337500,Mugiliformes,Actinopteri,91,reef-associated,2.01,LC,NA,White mullet,Mugil
+Mugil liza,Mugilidae,migratory,0.477722143,12098.99119,2622500,Mugiliformes,Actinopteri,80,demersal,3.45E-04,DD,NA,Lebranche mullet,Mugil
+Mullus argentinae,Mullidae,habitat_benthic,0.776864557,600.969623,310000,Mulliformes,Actinopteri,30,demersal,5.96E-04,NA,NA,Argentine goatfish,Mullus
+Mullus barbatus,Mullidae,habitat_benthic,0.68,23271.86826,727500,Mulliformes,Actinopteri,38.20000076,demersal,3.14,NA,NA,Red mullet,Mullus
+Pseudupeneus prayensis,Mullidae,habitat_benthic,0.897245891,12069.8998,652500,Mulliformes,Actinopteri,55,demersal,5.60E-04,VU,NA,West African goatfish,Pseudupeneus
+Cynoponticus coniceps,Muraenesocidae,sedentary,0.409229387,41.31668095,565000,Anguilliformes,Actinopteri,202,demersal,6.96E-04,DD,NA,Red pike conger,Cynoponticus
+Muraenesox cinereus,Muraenesocidae,sedentary,0.409229387,4874752.99,6977500,Anguilliformes,Actinopteri,220,demersal,7.57E-04,NA,NA,Daggertooth pike conger,Muraenesox
+Muraena helena,Muraenidae,territorial,0.189417697,308.7145556,2262500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Myliobatis aquila,Myliobatidae,habitat_coastal,0.237547455,616.7862343,3377500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mytilus coruscus,Mytilidae,sedentary,0.49,24271.54286,527500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mytilus edulis,Mytilidae,sedentary,0.54,459791.0519,6252500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mytilus galloprovincialis,Mytilidae,sedentary,0.5,33613.84,5317500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Eptatretus cirrhatus,Myxinidae,habitat_benthic,0.14925158,1765.180643,1312500,NA,NA,97,bathydemersal,8.64E-04,LC,NA,Broadgilled hagfish,Eptatretus
+Eptatretus cirrhatus,Myxinidae,habitat_benthic,0.14925158,1765.180643,1312500,Myxiniformes,Myxini,97,bathydemersal,8.64E-04,LC,NA,Broadgilled hagfish,Eptatretus
+Nemipterus japonicus,Nemipteridae,habitat_benthic,1.261848147,31278.90158,7565000,Eupercaria/misc,Actinopteri,32,demersal,7.12E-04,NA,NA,Japanese threadfin bream,Nemipterus
+Nemipterus virgatus,Nemipteridae,habitat_benthic,0.957144758,22906.75869,5732500,Eupercaria/misc,Actinopteri,35,demersal,6.89E-04,VU,NA,Golden threadfin bream,Nemipterus
+Scolopsis taeniata,Nemipteridae,habitat_reef,1.10849102,1097.347636,1430000,Eupercaria/misc,Actinopteri,36,reef-associated,3.48,NA,NA,Black-streaked monocle bream,Scolopsis
+Homarus americanus,Nephropidae,habitat_benthic,0.57,259436.197,390000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Homarus gammarus,Nephropidae,territorial,0.37,26229.80541,1345000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nephrops norvegicus,Nephropidae,sedentary,0.52,257939.1059,1705000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Normanichthys crockeri,Normanichthyidae,habitat_coastal,0.459478193,260047.4754,267500,Perciformes/Scorpaenoidei,Actinopteri,11,demersal,4.75E-04,NA,NA,Mote sculpin,Normanichthys
+Dissostichus eleginoides,Nototheniidae,deep,0.107371089,447134.1062,6025000,Perciformes/Notothenioidei,Actinopteri,215,pelagic-oceanic,4.49,NA,NA,Patagonian toothfish,Dissostichus
+Patagonotothen ramsayi,Nototheniidae,deep,0.471420356,443616.7456,1027500,Perciformes/Notothenioidei,Actinopteri,44,benthopelagic,6.03E-04,NA,NA,Longtail southern cod,Patagonotothen
+Octopus maya,Octopodidae,habitat_coastal,0.65,106714.8862,277500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Octopus vulgaris,Octopodidae,habitat_reef,0.81,449148.4622,21065000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dosidicus gigas,Ommastrephidae,pelagic,1.19,2926095.6,1287500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Illex argentinus,Ommastrephidae,pelagic,1,2172409.576,767500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Illex coindetii,Ommastrephidae,migratory,0.52,52425.83846,7900000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Illex illecebrosus,Ommastrephidae,pelagic,0.76,225529.2623,2527500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Todarodes pacificus,Ommastrephidae,pelagic,1.12,1988759.479,1220000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Todarodes sagittatus,Ommastrephidae,migratory,0.38,74281.03158,4517500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brotula barbata,Ophidiidae,habitat_benthic,0.276427346,22829.30435,3760000,Ophidiiformes,Actinopteri,94,reef-associated,3.67,LC,NA,Bearded brotula,Brotula
+Genypterus blacodes,Ophidiidae,habitat_benthic,0.130878043,1888496.335,2330000,Ophidiiformes,Actinopteri,200,bathydemersal,7.22E-04,NA,NA,Pink cusk-eel,Genypterus
+Genypterus capensis,Ophidiidae,habitat_benthic,0.18214067,17592.3311,127500,Ophidiiformes,Actinopteri,180,bathydemersal,7.67E-04,NA,NA,Kingklip,Genypterus
+Genypterus chilensis,Ophidiidae,habitat_benthic,0.203416315,22836.35898,125000,Ophidiiformes,Actinopteri,150,bathydemersal,6.77E-04,NA,NA,Red cusk-eel,Genypterus
+Genypterus maculatus,Ophidiidae,habitat_benthic,0.203416315,31923.35869,170000,Ophidiiformes,Actinopteri,100,demersal,NA,NA,NA,Black cusk-eel,Genypterus
+Chionoecetes japonicus,Oregoniidae,habitat_benthic,0.58,91309.89655,487500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chionoecetes opilio,Oregoniidae,habitat_benthic,0.58,803936.4213,3430000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Allocyttus niger,Oreosomatidae,habitat_deep,0.064718913,161745.6084,2897500,Zeiformes,Actinopteri,47,bathypelagic,6.08E-04,NA,NA,Black oreo,Allocyttus
+Pseudocyttus maculatus,Oreosomatidae,habitat_deep,0.109883806,271695.9556,2850000,Zeiformes,Actinopteri,68,bathydemersal,6.29E-04,DD,NA,Smooth oreo dory,Pseudocyttus
+Osmerus eperlanus,Osmeridae,habitat_coastal,0.094547828,203386.2059,1180000,Osmeriformes,Actinopteri,45,pelagic-neritic,5.98E-04,LC,NA,European smelt,Osmerus
+Osmerus mordax,Osmeridae,habitat_coastal,0.087755132,48591.9841,6640000,Osmeriformes,Actinopteri,35.59999847,pelagic-oceanic,3,NA,NA,Rainbow smelt,Osmerus
+Crassostrea gigas,Ostreidae,sedentary,0.57,133242.407,767500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oxynotus centrina,Oxynotidae,habitat_benthic,0.129505952,870.9097821,2822500,Squaliformes,Elasmobranchii,150,bathydemersal,3.06,VU,NA,Angular roughshark,Oxynotus
+Nematopalaemon hastatus,Palaemonidae,habitat_coastal,1.19,15289.71429,690000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nematopalaemon schmitti,Palaemonidae,habitat_coastal,1.19,1307.885714,550000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jasus edwardsii,Palinuridae,habitat_benthic,0.52,77717.61492,512500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jasus lalandii,Palinuridae,habitat_benthic,0.425,45562.49983,102500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Palinurus delagoae,Palinuridae,habitat_benthic,0.22,398.5818182,200000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Palinurus elephas,Palinuridae,habitat_benthic,0.22,7812.036364,2272500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Palinurus gilchristi,Palinuridae,habitat_benthic,0.22,4157.728487,75000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Palinurus mauritanicus,Palinuridae,habitat_benthic,0.22,20.8,967500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Panulirus argus,Palinuridae,habitat_benthic,0.55,175058.7927,2802500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Panulirus cygnus,Palinuridae,habitat_benthic,1.15,24870.9913,102500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Panulirus gracilis,Palinuridae,migratory,1.0175,231.5125307,452500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Panulirus homarus,Palinuridae,habitat_benthic,1.0175,1588.713514,10630000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Panulirus longipes,Palinuridae,habitat_benthic,1.0175,5685.609828,12102500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pandalus hypsinotus,Pandalidae,habitat_benthic,0.56,1067.15,1060000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pandalus jordani,Pandalidae,habitat_benthic,0.54,103032.1111,1080000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pandalus kessleri,Pandalidae,habitat_benthic,0.56,83.22142857,500000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Citharichthys sordidus,Paralichthyidae,habitat_benthic,0.949478483,98.62677426,720000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Paralichthys californicus,Paralichthyidae,habitat_benthic,0.686346119,215.8677611,375000,Pleuronectiformes,Actinopteri,152,demersal,7.77E-04,LC,NA,California flounder,Paralichthys
+Paralichthys olivaceus,Paralichthyidae,habitat_benthic,0.873733883,18572.61021,1642500,Pleuronectiformes,Actinopteri,103,demersal,4.46,NA,1.49E-05,Bastard halibut,Paralichthys
+Aequipecten opercularis,Pectinidae,sedentary,0.56,77375.08571,2715000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Argopecten irradians,Pectinidae,sedentary,1.01,9416.475248,1030000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Argopecten ventricosus,Pectinidae,sedentary,1.01,20144.79604,777500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pecten novaezelandiae,Pectinidae,sedentary,0.51,22355.44314,397500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Placopecten magellanicus,Pectinidae,sedentary,0.56,220024.6036,1312500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Artemesia longinaris,Penaeidae,habitat_benthic,0.52,1494.130769,475000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Metapenaeus endeavouri,Penaeidae,habitat_benthic,0.93,5475.178495,4522500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Metapenaeus joyneri,Penaeidae,habitat_coastal,1.02,5795.890196,1025000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Metapenaeus monoceros,Penaeidae,sedentary,1.11,1194.342342,2802500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Parapenaeus longirostris,Penaeidae,habitat_benthic,1.03,23683.6846,5340000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Penaeus penicillatus,Penaeidae,habitat_benthic,1.083333333,7193.911387,1307500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Penaeus semisulcatus,Penaeidae,migratory,1.18,15939.2923,11300000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xiphopenaeus kroyeri,Penaeidae,habitat_benthic,0.88,123756.1364,2917500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Paristiopterus labiosus,Pentacerotidae,habitat_benthic,0.566320874,55.24076796,827500,Acropomatiformes,Actinopteri,100,demersal,3.33,NA,NA,Giant boarfish,Paristiopterus
+Galeus melastomus,Pentanchidae,habitat_deep,0.188359255,2753.355548,3435000,Carcharhiniformes,Elasmobranchii,75,demersal,4.17,LC,NA,Blackmouth catshark,Galeus
+Percophis brasiliensis,Percophidae,habitat_coastal,0.257794633,71909.87553,1072500,Perciformes/Percophoidei,Actinopteri,53.29999924,demersal,7.20E-04,NA,NA,Brazilian flathead,Percophis
+Petromyzon marinus,Petromyzontidae,migratory,0.291680948,416.3453277,2705000,NA,NA,120,demersal,7.55E-04,LC,NA,Sea lamprey,Petromyzon
+Petromyzon marinus,Petromyzontidae,migratory,0.291680948,416.3453277,2705000,Petromyzontiformes,Petromyzonti,120,demersal,7.55E-04,LC,NA,Sea lamprey,Petromyzon
+Phycis blennoides,Phycidae,migratory,0.397379693,21238.72232,3255000,Gadiformes,Actinopteri,110,benthopelagic,6.32E-04,NA,NA,Greater forkbeard,Phycis
+Phycis phycis,Phycidae,habitat_benthic,0.512241091,9656.663803,1815000,Gadiformes,Actinopteri,65,benthopelagic,4.25,LC,NA,Forkbeard,Phycis
+Urophycis brasiliensis,Phycidae,habitat_benthic,0.37513184,23685.99795,62500,Gadiformes,Actinopteri,52.20000076,demersal,6.81E-04,NA,NA,Brazilian codling,Urophycis
+Urophycis chuss,Phycidae,migratory,0.303554299,132954.9808,492500,Gadiformes,Actinopteri,66,demersal,3.72,NA,NA,Red hake,Urophycis
+Urophycis tenuis,Phycidae,migratory,0.178334746,214826.6815,565000,Gadiformes,Actinopteri,133,demersal,4.27,NA,NA,White hake,Urophycis
+Parapercis colias,Pinguipedidae,habitat_coastal,0.447064618,11421.44512,465000,Perciformes/Uranoscopoidei,Actinopteri,45,demersal,3.89,LC,NA,New Zealand blue cod,Parapercis
+Prolatilus jugularis,Pinguipedidae,habitat_benthic,0.636895363,735.5556771,295000,Perciformes/Uranoscopoidei,Actinopteri,40,demersal,6.39E-04,NA,6.45E-06,Pacific sandperch,Prolatilus
+Pseudopercis semifasciata,Pinguipedidae,habitat_benthic,0.636895363,14767.71311,700000,Perciformes/Uranoscopoidei,Actinopteri,100,demersal,6.70E-04,NA,NA,Argentinian sandperch,Pseudopercis
+Grammoplites suppositus,Platycephalidae,habitat_benthic,0.42142105,144.2168111,1385000,Perciformes/Scorpaenoidei,Actinopteri,31,demersal,3.84,LC,NA,Spotfin flathead,Grammoplites
+Platycephalus indicus,Platycephalidae,habitat_benthic,0.47872139,56660.6226,11915000,Perciformes/Scorpaenoidei,Actinopteri,100,reef-associated,3.6,DD,NA,Bartail flathead,Platycephalus
+Atheresthes evermanni,Pleuronectidae,habitat_benthic,0.172236506,47522.58494,1745000,Pleuronectiformes,Actinopteri,100,demersal,4.3,NA,NA,Kamchatka flounder,Atheresthes
+Atheresthes stomias,Pleuronectidae,habitat_benthic,0.192836543,6713308.943,1287500,Pleuronectiformes,Actinopteri,84,demersal,4.17,NA,NA,Arrow-tooth flounder,Atheresthes
+Eopsetta jordani,Pleuronectidae,habitat_benthic,0.112547735,93498.74497,1140000,Pleuronectiformes,Actinopteri,53,demersal,7.08E-04,LC,NA,Petrale sole,Eopsetta
+Glyptocephalus cynoglossus,Pleuronectidae,habitat_benthic,0.149820154,242414.0039,3570000,Pleuronectiformes,Actinopteri,60,demersal,3.17,NA,NA,Witch flounder,Glyptocephalus
+Glyptocephalus zachirus,Pleuronectidae,habitat_benthic,0.186545885,46722.98191,1320000,Pleuronectiformes,Actinopteri,60,demersal,3.25,NA,NA,Rex sole,Glyptocephalus
+Hippoglossoides elassodon,Pleuronectidae,habitat_benthic,0.179774811,2483813.465,277500,Pleuronectiformes,Actinopteri,52,demersal,3.67,NA,NA,Flathead sole,Hippoglossoides
+Hippoglossoides platessoides,Pleuronectidae,habitat_benthic,0.145000355,972060.8501,4190000,Pleuronectiformes,Actinopteri,82.59999847,demersal,4.08,NA,NA,American plaice,Hippoglossoides
+Hippoglossus hippoglossus,Pleuronectidae,habitat_benthic,0.11850261,219943.3248,5017500,Pleuronectiformes,Actinopteri,470,demersal,4,EN,NA,Atlantic halibut,Hippoglossus
+Lepidopsetta bilineata,Pleuronectidae,habitat_benthic,0.174289797,5936610.18,2527500,Pleuronectiformes,Actinopteri,58,demersal,3.18,NA,NA,Rock sole,Lepidopsetta
+Limanda aspera,Pleuronectidae,habitat_benthic,0.195797383,2213914.305,2760000,Pleuronectiformes,Actinopteri,49,demersal,3.49,NA,NA,Yellowfin sole,Limanda
+Limanda ferruginea,Pleuronectidae,habitat_benthic,0.326508332,445752.6399,1120000,Pleuronectiformes,Actinopteri,64,demersal,3.28,NA,NA,Yellowtail flounder,Limanda
+Limanda limanda,Pleuronectidae,habitat_benthic,0.461184433,97722.63055,1395000,Pleuronectiformes,Actinopteri,40,demersal,3,LC,NA,Common dab,Limanda
+Microstomus kitt,Pleuronectidae,habitat_benthic,0.12105525,286647.3621,1532500,Pleuronectiformes,Actinopteri,65,demersal,5.54E-04,NA,NA,Lemon sole,Microstomus
+Microstomus pacificus,Pleuronectidae,habitat_benthic,0.089528983,1695516.011,1172500,Pleuronectiformes,Actinopteri,76,demersal,3.22,NA,NA,Dover sole,Microstomus
+Platichthys flesus,Pleuronectidae,habitat_benthic,0.340148283,148911.2792,1830000,Pleuronectiformes,Actinopteri,60,demersal,3.32,LC,NA,European flounder,Platichthys
+Platichthys stellatus,Pleuronectidae,habitat_benthic,0.256053141,18964.81325,3655000,Pleuronectiformes,Actinopteri,91,demersal,3.58,LC,NA,Starry flounder,Platichthys
+Psettichthys melanostictus,Pleuronectidae,habitat_benthic,0.306059045,363.812153,1187500,Pleuronectiformes,Actinopteri,63,demersal,7.01E-04,NA,NA,Pacific sand sole,Psettichthys
+Reinhardtius hippoglossoides,Pleuronectidae,habitat_benthic,0.171591636,1708262.693,4170000,Pleuronectiformes,Actinopteri,110,benthopelagic,4.38,NA,NA,Greenland halibut,Reinhardtius
+Eleutheronema tetradactylum,Polynemidae,habitat_coastal,0.643974845,41062.71573,8010000,Carangaria/misc,Actinopteri,200,pelagic-neritic,4.06,NA,NA,Fourfinger threadfin,Eleutheronema
+Galeoides decadactylus,Polynemidae,habitat_coastal,0.509571815,78024.89662,197500,Carangaria/misc,Actinopteri,50,demersal,6.17E-04,NT,NA,Lesser African threadfin,Galeoides
+Pentanemus quinquarius,Polynemidae,habitat_coastal,0.687012387,16110.92931,650000,Carangaria/misc,Actinopteri,35,demersal,6.15E-04,VU,NA,Royal threadfin,Pentanemus
+Polydactylus quadrifilis,Polynemidae,habitat_coastal,0.564120399,167966.2074,507500,Carangaria/misc,Actinopteri,200,demersal,6.93E-04,LC,NA,Giant African threadfin,Polydactylus
+Polyprion americanus,Polyprionidae,habitat_benthic,0.097063333,19181.41426,7452500,Acropomatiformes,Actinopteri,210,demersal,7.15E-04,DD,NA,Wreckfish,Polyprion
+Stereolepis gigas,Polyprionidae,habitat_benthic,0.278444226,33.70154285,632500,Acropomatiformes,Actinopteri,250,demersal,7.77E-04,CR,NA,Giant seabass,Stereolepis
+Pomacanthus maculosus,Pomacanthidae,habitat_reef,0.204546984,1194.620401,1652500,Acanthuriformes,Actinopteri,50,reef-associated,4.61E-04,LC,NA,Yellowbar angelfish,Pomacanthus
+Pomatomus saltatrix,Pomatomidae,migratory,0.524709109,250538.4751,137852500,Scombriformes,Actinopteri,130,pelagic-oceanic,4.53,VU,NA,Bluefish,Pomatomus
+Callinectes danae,Portunidae,habitat_coastal,0.6,16856.30667,3140000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Callinectes sapidus,Portunidae,habitat_coastal,0.6,550804.78,3357500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portunus pelagicus,Portunidae,habitat_coastal,1.19,329510.5345,5862500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Portunus trituberculatus,Portunidae,migratory,1.19,2042910.776,9145000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Scylla serrata,Portunidae,habitat_coastal,1.17,116479.1419,10187500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Priacanthus macracanthus,Priacanthidae,habitat_reef,0.900748536,38524.31461,9322500,Eupercaria/misc,Actinopteri,30,reef-associated,7.10E-04,LC,NA,Red bigeye,Priacanthus
+Ilisha africana,Pristigasteridae,habitat_coastal,1.109770194,77979.82003,425000,Clupeiformes,Actinopteri,30,pelagic-neritic,3.59,LC,NA,West African ilisha,Ilisha
+Ilisha elongata,Pristigasteridae,habitat_coastal,0.97400234,596680.1311,2587500,Clupeiformes,Actinopteri,60,pelagic-neritic,6.55E-04,LC,NA,Elongate ilisha,Ilisha
+Pellona ditchela,Pristigasteridae,pelagic,0.7640441,132535.3026,8327500,Clupeiformes,Actinopteri,16,pelagic,NA,LC,NA,Indian pellona,Pellona
+Psettodes erumei,Psettodidae,habitat_benthic,0.855080405,81476.7449,3950000,Pleuronectiformes,Actinopteri,64,demersal,4.39,NA,NA,Indian halibut,Psettodes
+Rachycentron canadum,Rachycentridae,hms,0.44388526,58777.77515,15987500,Carangiformes,Actinopteri,200,reef-associated,3.96,LC,NA,Cobia,Rachycentron
+Dipturus innominatus,Rajidae,habitat_benthic,0.077021002,50787.08256,1292500,Rajiformes,Elasmobranchii,240,demersal,3.506666667,LC,NA,New Zealand smooth skate,Dipturus
+Raja clavata,Rajidae,habitat_benthic,0.065701067,91506.30415,3877500,Rajiformes,Elasmobranchii,105,demersal,3.84,NT,NA,Thornback ray,Raja
+Raja rhina,Rajidae,habitat_benthic,0.068133028,62364.83059,802500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zearaja chilensis,Rajidae,habitat_benthic,0.036855308,31790.916,1670000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rhinobatos planiceps,Rhinobatidae,habitat_benthic,0.21260769,15941.09788,517500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rhynchobatus australiae,Rhinobatidae,habitat_benthic,0.204810937,20942.80736,7867500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rhynchobatus djiddensis,Rhinobatidae,habitat_benthic,0.204810937,834.7991685,2387500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oncorhynchus gorbuscha,Salmonidae,migratory,0.491520221,5986072.754,3357500,Salmoniformes,Actinopteri,76,demersal,4.49,NA,NA,Pink salmon,Oncorhynchus
+Oncorhynchus keta,Salmonidae,migratory,0.332235885,1232214.468,2395000,Salmoniformes,Actinopteri,100,benthopelagic,3.74,NA,NA,Chum salmon,Oncorhynchus
+Oncorhynchus kisutch,Salmonidae,migratory,0.52822829,180864.232,2657500,Salmoniformes,Actinopteri,107.9499969,pelagic,7.22E-04,NA,NA,Coho salmon,Oncorhynchus
+Oncorhynchus masou,Salmonidae,migratory,0.488,11650.48361,1050000,Salmoniformes,Actinopteri,79,benthopelagic,6.22E-04,NA,NA,Masu salmon,Oncorhynchus
+Oncorhynchus nerka,Salmonidae,migratory,0.343342144,1750038.608,1905000,Salmoniformes,Actinopteri,84,pelagic-oceanic,3.54,LC,NA,Sockeye salmon,Oncorhynchus
+Oncorhynchus tshawytscha,Salmonidae,migratory,0.491520221,78870.36652,2962500,Salmoniformes,Actinopteri,150,benthopelagic,4.4,NA,NA,Chinook salmon,Oncorhynchus
+Salmo salar,Salmonidae,migratory,0.729628165,9019.125512,3572500,Salmoniformes,Actinopteri,150,benthopelagic,4.5,LC,NA,Atlantic salmon,Salmo
+Salmo trutta,Salmonidae,migratory,0.745858627,4797.810026,1677500,Salmoniformes,Actinopteri,140,pelagic-neritic,3.36,LC,55,Sea trout,Salmo
+Salmo trutta,Salmonidae,migratory,0.745858627,4797.810026,1677500,Salmoniformes,Actinopteri,140,pelagic-neritic,3.36,LC,87.5,Sea trout,Salmo
+Salvelinus alpinus,Salmonidae,migratory,0.2,1393.2,5825000,Salmoniformes,Actinopteri,107,benthopelagic,4.39,NA,NA,Arctic char,Salvelinus
+Scarus persicus,Scaridae,habitat_reef,0.619733236,725.8477905,662500,Eupercaria/misc,Actinopteri,50,benthopelagic,2.003846154,LC,NA,Gulf parrotfish,Scarus
+Sparisoma cretense,Scaridae,habitat_coastal,0.485599221,2093.718353,1422500,Eupercaria/misc,Actinopteri,50,reef-associated,4.94E-04,LC,4.48E-05,Parrotfish,Sparisoma
+Sparisoma cretense,Scaridae,habitat_coastal,0.485599221,2093.718353,1422500,Eupercaria/misc,Actinopteri,50,reef-associated,4.94E-04,LC,0.038908,Parrotfish,Sparisoma
+Sparisoma cretense,Scaridae,habitat_coastal,0.485599221,2093.718353,1422500,Eupercaria/misc,Actinopteri,50,reef-associated,4.94E-04,LC,0.041983,Parrotfish,Sparisoma
+Argyrosomus hololepidotus,Sciaenidae,habitat_coastal,0.227953054,81983.30163,347500,Eupercaria/misc,Actinopteri,200,demersal,4.48,EN,NA,Southern meagre,Argyrosomus
+Argyrosomus regius,Sciaenidae,migratory,0.149075294,35019.83379,1400000,Eupercaria/misc,Actinopteri,230,benthopelagic,7.41E-04,LC,NA,Meagre,Argyrosomus
+Atractoscion aequidens,Sciaenidae,habitat_coastal,0.311853212,2288.230401,4040000,Eupercaria/misc,Actinopteri,130,benthopelagic,7.77E-04,VU,NA,Geelbeck croaker,Atractoscion
+Atractoscion nobilis,Sciaenidae,habitat_coastal,0.296616436,1870.644824,522500,Eupercaria/misc,Actinopteri,166,demersal,7.50E-04,LC,NA,White weakfish,Atractoscion
+Atrobucca nibe,Sciaenidae,habitat_coastal,0.460821512,25016.42764,9827500,Eupercaria/misc,Actinopteri,45,demersal,6.84E-04,NA,NA,Blackmouth croaker,Atrobucca
+Cilus gilberti,Sciaenidae,habitat_benthic,0.624615121,39818.27394,285000,Eupercaria/misc,Actinopteri,92,demersal,6.77E-04,DD,NA,Corvina drum,Cilus
+Cynoscion acoupa,Sciaenidae,habitat_coastal,0.392131823,78789.14733,1062500,Eupercaria/misc,Actinopteri,110,demersal,7.00E-04,LC,NA,Acoupa weakfish,Cynoscion
+Cynoscion analis,Sciaenidae,habitat_coastal,0.551630808,24108.18213,12500,Eupercaria/misc,Actinopteri,47,demersal,4.06,LC,NA,Peruvian weakfish,Cynoscion
+Cynoscion arenarius,Sciaenidae,habitat_coastal,0.789800407,1093.045778,737500,Eupercaria/misc,Actinopteri,63.5,demersal,4.17,LC,NA,Sand weakfish,Cynoscion
+Cynoscion guatucupa,Sciaenidae,habitat_coastal,0.546839108,12600.54722,497500,Eupercaria/misc,Actinopteri,50,benthopelagic,6.43E-04,NA,NA,Stripped weakfish,Cynoscion
+Cynoscion jamaicensis,Sciaenidae,habitat_coastal,0.661378058,16743.59145,1850000,Eupercaria/misc,Actinopteri,50,demersal,6.63E-04,LC,NA,Jamaica weakfish,Cynoscion
+Cynoscion leiarchus,Sciaenidae,habitat_coastal,0.646582686,3205.040971,1052500,Eupercaria/misc,Actinopteri,90.80000305,demersal,5.29E-04,LC,NA,Smooth weakfish,Cynoscion
+Cynoscion regalis,Sciaenidae,habitat_coastal,0.331251585,78654.71789,320000,Eupercaria/misc,Actinopteri,98,demersal,3.77,NA,NA,Squeteague,Cynoscion
+Cynoscion striatus,Sciaenidae,habitat_reef,0.561883634,93747.47506,580000,Eupercaria/misc,Actinopteri,60,demersal,3.9,NA,NA,Striped weakfish,Cynoscion
+Cynoscion virescens,Sciaenidae,habitat_coastal,0.561883634,1443.494614,722500,Eupercaria/misc,Actinopteri,115,demersal,6.96E-04,LC,NA,Green weakfish,Cynoscion
+Genyonemus lineatus,Sciaenidae,habitat_benthic,0.624615121,822.3303962,135000,Eupercaria/misc,Actinopteri,41,benthopelagic,5.92E-04,NT,NA,White croaker,Genyonemus
+Isopisthus parvipinnis,Sciaenidae,habitat_coastal,0.624615121,217.5803874,742500,Eupercaria/misc,Actinopteri,41.5,demersal,4.04,LC,NA,Bigtooth corvina,Isopisthus
+Larimichthys polyactis,Sciaenidae,habitat_coastal,0.546792217,3116786.623,982500,Eupercaria/misc,Actinopteri,40,benthopelagic,3.72,NA,NA,Yellow croaker,Larimichthys
+Larimus breviceps,Sciaenidae,habitat_coastal,0.716833218,1092.689317,1682500,Eupercaria/misc,Actinopteri,31,demersal,3.52,LC,NA,Shorthead drum,Larimus
+Leiostomus xanthurus,Sciaenidae,habitat_coastal,0.766431999,17575.357,980000,Eupercaria/misc,Actinopteri,36,demersal,3.23,LC,NA,Spot croaker,Leiostomus
+Macrodon ancylodon,Sciaenidae,habitat_coastal,0.61741782,49574.92161,1177500,Eupercaria/misc,Actinopteri,45,demersal,6.74E-04,LC,NA,King weakfish,Macrodon
+Menticirrhus littoralis,Sciaenidae,habitat_coastal,0.552421971,7736.086232,2402500,Eupercaria/misc,Actinopteri,48.29999924,demersal,3.92,LC,NA,Gulf kingcroaker,Menticirrhus
+Menticirrhus saxatilis,Sciaenidae,habitat_coastal,0.497880502,390.503342,1627500,Eupercaria/misc,Actinopteri,46,demersal,3.56,LC,NA,Northern kingfish,Menticirrhus
+Micropogonias furnieri,Sciaenidae,habitat_coastal,0.541310594,227203.5195,2195000,Eupercaria/misc,Actinopteri,60,demersal,3.09,LC,NA,Whitemouth croaker,Micropogonias
+Micropogonias undulatus,Sciaenidae,habitat_coastal,0.873782776,89165.34195,2317500,Eupercaria/misc,Actinopteri,55,demersal,6.91E-04,LC,NA,Atlantic croaker,Micropogonias
+Miichthys miiuy,Sciaenidae,habitat_coastal,0.562138124,254347.1254,870000,Eupercaria/misc,Actinopteri,70,demersal,6.05E-04,NA,NA,Mi-iuy croaker,Miichthys
+Otolithes ruber,Sciaenidae,habitat_coastal,0.865438668,75651.61394,8637500,Eupercaria/misc,Actinopteri,90,benthopelagic,3.6,NA,NA,Tigertooth croaker,Otolithes
+Paralonchurus peruanus,Sciaenidae,habitat_coastal,0.624615121,21622.18548,150000,Eupercaria/misc,Actinopteri,51,demersal,2.17,LC,NA,Peruvian banded croaker,Paralonchurus
+Pennahia anea,Sciaenidae,habitat_coastal,1.31363675,22525.35337,4990000,Eupercaria/misc,Actinopteri,30,demersal,6.89E-04,NA,NA,Donkey croaker,Pennahia
+Pennahia argentata,Sciaenidae,habitat_coastal,0.804667561,27970.05508,1032500,Eupercaria/misc,Actinopteri,40,benthopelagic,4.06,NA,NA,Silver croaker,Pennahia
+Pogonias cromis,Sciaenidae,habitat_coastal,0.18652475,52814.07433,1915000,Eupercaria/misc,Actinopteri,170,demersal,3.38,LC,NA,Black drum,Pogonias
+Pseudotolithus elongatus,Sciaenidae,habitat_coastal,0.262800508,203446.1344,320000,Eupercaria/misc,Actinopteri,47,demersal,7.01E-04,LC,NA,Bobo croaker,Pseudotolithus
+Pseudotolithus senegalensis,Sciaenidae,habitat_coastal,0.4770747,34442.69003,542500,Eupercaria/misc,Actinopteri,114,demersal,6.55E-04,EN,NA,Cassava croaker,Pseudotolithus
+Pseudotolithus senegallus,Sciaenidae,habitat_coastal,0.453895734,8299.897352,590000,Eupercaria/misc,Actinopteri,230,demersal,6.72E-04,VU,NA,Law croaker,Pseudotolithus
+Pteroscion peli,Sciaenidae,habitat_benthic,0.624615121,7736.777156,585000,Eupercaria/misc,Actinopteri,32,benthopelagic,6.15E-04,LC,NA,Boe drum,Pteroscion
+Umbrina canariensis,Sciaenidae,habitat_benthic,0.378795976,11581.93929,2567500,Eupercaria/misc,Actinopteri,80,demersal,5.82E-04,LC,NA,Canary drum,Umbrina
+Umbrina canosai,Sciaenidae,habitat_benthic,0.680525062,56568.85569,347500,Eupercaria/misc,Actinopteri,40,demersal,6.65E-04,NA,NA,Argentine croaker,Umbrina
+Umbrina cirrosa,Sciaenidae,habitat_reef,0.434111271,3945.84549,1472500,Eupercaria/misc,Actinopteri,73,demersal,5.89E-04,NA,NA,Shi drum,Umbrina
+Cololabis saira,Scomberesocidae,pelagic,0.461247094,2474804.226,10187500,Beloniformes,Actinopteri,40,pelagic-oceanic,6.41E-04,NA,NA,Pacific saury,Cololabis
+Scomberesox saurus,Scomberesocidae,pelagic,0.634268623,15045.82704,23045000,Beloniformes,Actinopteri,50,pelagic-oceanic,3.91,NA,NA,Atlantic saury,Scomberesox
+Acanthocybium solandri,Scombridae,pelagic,0.522684226,23280.69491,193442500,Scombriformes,Actinopteri,250,pelagic-oceanic,4.26,LC,NA,Wahoo,Acanthocybium
+Allothunnus fallai,Scombridae,pelagic,0.596518223,451.3659255,48347500,Scombriformes,Actinopteri,105,pelagic-oceanic,3.7,LC,NA,Slender tuna,Allothunnus
+Euthynnus affinis,Scombridae,pelagic,0.630833414,2460508.938,14720000,Scombriformes,Actinopteri,100,pelagic-neritic,4.5,LC,NA,Kawakawa,Euthynnus
+Euthynnus lineatus,Scombridae,pelagic,0.516132309,15997.52595,477500,Scombriformes,Actinopteri,84,pelagic-oceanic,6.62E-04,LC,NA,Black skipjack,Euthynnus
+Gasterochisma melampus,Scombridae,deep,0.596518223,20.80741126,63335000,Scombriformes,Actinopteri,164,pelagic-oceanic,7.51E-04,LC,NA,Butterfly kingfish,Gasterochisma
+Gymnosarda unicolor,Scombridae,pelagic,0.596518223,2718.783662,12880000,Scombriformes,Actinopteri,247.9799957,reef-associated,7.77E-04,LC,NA,Dogtooth tuna,Gymnosarda
+Orcynopsis unicolor,Scombridae,hms,0.596518223,3446.15792,2472500,Scombriformes,Actinopteri,130,pelagic-neritic,7.77E-04,LC,NA,Plain bonito,Orcynopsis
+Rastrelliger brachysoma,Scombridae,pelagic,1.171892667,924370.2657,8362500,Scombriformes,Actinopteri,34.5,pelagic-neritic,4.70E-04,DD,NA,Short mackerel,Rastrelliger
+Rastrelliger kanagurta,Scombridae,pelagic,1.130434227,875025.7028,9025000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sarda chiliensis,Scombridae,pelagic,0.474168676,271116.5089,307500,Scombriformes,Actinopteri,102,pelagic-neritic,4.49,NA,NA,Eastern Pacific bonito,Sarda
+Sarda orientalis,Scombridae,pelagic,0.340909222,4837.017878,14075000,Scombriformes,Actinopteri,102,pelagic-neritic,7.27E-04,LC,NA,Striped bonito,Sarda
+Sarda sarda,Scombridae,hms,0.703009387,139718.1571,6197500,Scombriformes,Actinopteri,91.40000153,pelagic-neritic,4.5,LC,NA,Atlantic bonito,Sarda
+Scomber australasicus,Scombridae,hms,0.571448731,1697845.884,6165000,Scombriformes,Actinopteri,44,pelagic-neritic,4.23,LC,NA,Blue mackerel,Scomber
+Scomberomorus brasiliensis,Scombridae,habitat_coastal,0.494621434,43179.64922,1760000,Scombriformes,Actinopteri,125,reef-associated,3.31,LC,NA,Serra Spanish mackerel,Scomberomorus
+Scomberomorus commerson,Scombridae,hms,0.543282813,2482310.546,11710000,Scombriformes,Actinopteri,240,pelagic-neritic,4.5,NT,NA,Narrow-barred Spanish mackerel,Scomberomorus
+Scomberomorus guttatus,Scombridae,hms,0.500310594,326872.9664,6332500,Scombriformes,Actinopteri,76,pelagic-neritic,7.39E-04,DD,NA,Indo-Pacific king mackerel,Scomberomorus
+Scomberomorus lineolatus,Scombridae,pelagic,0.297890582,1908.835101,3632500,Scombriformes,Actinopteri,94,pelagic-neritic,7.77E-04,LC,NA,Streaked seerfish,Scomberomorus
+Scomberomorus niphonius,Scombridae,hms,0.525702802,484476.8317,1432500,Scombriformes,Actinopteri,113.1999969,pelagic-neritic,4.5,DD,NA,Japanese Spanish mackerel,Scomberomorus
+Scomberomorus regalis,Scombridae,pelagic,0.602525476,2229.38955,2657500,Scombriformes,Actinopteri,183,reef-associated,4.51,LC,NA,Cero,Scomberomorus
+Scomberomorus sierra,Scombridae,pelagic,0.625514345,48802.96067,742500,Scombriformes,Actinopteri,99,pelagic-neritic,4.49,LC,NA,Pacific sierra,Scomberomorus
+Scomberomorus tritor,Scombridae,pelagic,1.01040211,12151.3325,567500,Scombriformes,Actinopteri,100,pelagic-neritic,4.42,LC,NA,West African Spanish mackerel,Scomberomorus
+Thunnus alalunga,Scombridae,hms,0.139377132,10474612.34,214395000,Scombriformes,Actinopteri,140,pelagic-oceanic,4.3,NT,NA,Albacore,Thunnus
+Thunnus atlanticus,Scombridae,hms,0.411464956,21204.61504,17285000,Scombriformes,Actinopteri,107.9499969,pelagic-oceanic,4.35,LC,NA,Blackfin tuna,Thunnus
+Thunnus obesus,Scombridae,pelagic,0.236346256,15137950.72,492747500,Scombriformes,Actinopteri,250,pelagic-oceanic,4.49,VU,NA,Bigeye tuna,Thunnus
+Thunnus orientalis,Scombridae,hms,0.191806337,361719.0179,137085000,Scombriformes,Actinopteri,300,pelagic-oceanic,4.416666667,VU,91382,Pacific bluefin tuna,Thunnus
+Thunnus tonggol,Scombridae,pelagic,0.221774814,4937248.325,13385000,Scombriformes,Actinopteri,144.9830017,pelagic-neritic,4.5,DD,NA,Longtail tuna,Thunnus
+Lepidorhombus boscii,Scophthalmidae,habitat_benthic,0.512571372,10315.36345,1817500,Pleuronectiformes,Actinopteri,40,demersal,3.74,NA,NA,Four-spot megrim,Lepidorhombus
+Lepidorhombus whiffiagonis,Scophthalmidae,habitat_benthic,0.443300965,3987.286609,1412500,Pleuronectiformes,Actinopteri,60,bathydemersal,4.34,NA,NA,Megrim,Lepidorhombus
+Scophthalmus aquosus,Scophthalmidae,habitat_benthic,0.591988437,8428.643554,307500,Pleuronectiformes,Actinopteri,45.70000076,demersal,3.72,NA,NA,Windowpane flounder,Scophthalmus
+Scophthalmus rhombus,Scophthalmidae,habitat_benthic,0.83735981,9133.32108,2545000,Pleuronectiformes,Actinopteri,75,demersal,4.42,NA,NA,Brill,Scophthalmus
+Pontinus kuhlii,Scorpaenidae,habitat_deep,0.281780151,1536.758348,1472500,Perciformes/Scorpaenoidei,Actinopteri,52,bathydemersal,7.00E-04,DD,NA,Offshore rockfish,Pontinus
+Cephaloscyllium isabellum,Scyliorhinidae,habitat_reef,0.188359255,3727.302912,840000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Scyliorhinus stellaris,Scyliorhinidae,habitat_benthic,0.165279858,4570.817084,3130000,Carcharhiniformes,Elasmobranchii,170,reef-associated,4.03,NT,NA,Nursehound,Scyliorhinus
+Helicolenus dactylopterus,Sebastidae,habitat_benthic,0.149321292,118996.2652,11510000,Perciformes/Scorpaenoidei,Actinopteri,50,bathydemersal,3.54,LC,NA,Blackbelly rosefish,Helicolenus
+Sebastes aleutianus,Sebastidae,habitat_benthic,0.038306076,192666.7885,1802500,Perciformes/Scorpaenoidei,Actinopteri,97,bathydemersal,3.52,NA,NA,Rougheye rockfish,Sebastes
+Sebastes alutus,Sebastidae,habitat_benthic,0.0482791,3931567.863,1702500,Perciformes/Scorpaenoidei,Actinopteri,53,bathydemersal,3.48,NA,NA,Pacific ocean perch,Sebastes
+Sebastes carnatus,Sebastidae,territorial,0.085905332,4702.851269,112500,Perciformes/Scorpaenoidei,Actinopteri,39,demersal,6.25E-04,NA,NA,Gopher rockfish,Sebastes
+Sebastes chlorostictus,Sebastidae,habitat_benthic,0.085905332,5340.762778,172500,Perciformes/Scorpaenoidei,Actinopteri,50,demersal,3.764736842,NA,NA,Greenspotted rockfish,Sebastes
+Sebastes diploproa,Sebastidae,habitat_benthic,0.085905332,59041.73673,647500,Perciformes/Scorpaenoidei,Actinopteri,46,bathydemersal,3.764736842,NA,NA,Splitnose rockfish,Sebastes
+Sebastes elongatus,Sebastidae,habitat_benthic,0.092092131,34878.11552,492500,Perciformes/Scorpaenoidei,Actinopteri,39,demersal,3.764736842,NA,NA,Greenstriped rockfish,Sebastes
+Sebastes entomelas,Sebastidae,habitat_reef,0.085905332,255744.4045,927500,Perciformes/Scorpaenoidei,Actinopteri,60,pelagic-neritic,3.7,NA,NA,Widow rockfish,Sebastes
+Sebastes flavidus,Sebastidae,habitat_reef,0.058523207,319873.1042,622500,Perciformes/Scorpaenoidei,Actinopteri,66,reef-associated,4.15,NA,NA,Yellowtail rockfish,Sebastes
+Sebastes goodei,Sebastidae,habitat_reef,0.093050773,93024.48232,185000,Perciformes/Scorpaenoidei,Actinopteri,56,demersal,5.98E-04,NA,NA,Chilipepper rockfish,Sebastes
+Sebastes jordani,Sebastidae,habitat_benthic,0.096107777,78677.2958,340000,Perciformes/Scorpaenoidei,Actinopteri,32,demersal,5.53E-04,NA,NA,Shortbelly rockfish,Sebastes
+Sebastes melanops,Sebastidae,habitat_reef,0.085048452,83361.32064,1035000,Perciformes/Scorpaenoidei,Actinopteri,63,reef-associated,4.38,NA,0.25,Black rockfish,Sebastes
+Sebastes melanostomus,Sebastidae,habitat_deep,0.057457149,15454.99584,207500,Perciformes/Scorpaenoidei,Actinopteri,61,bathydemersal,3.764736842,NA,NA,Blackgill rockfish,Sebastes
+Sebastes mystinus,Sebastidae,habitat_reef,0.103740039,10603.42768,680000,Perciformes/Scorpaenoidei,Actinopteri,61,reef-associated,2.71,NA,0.008783,Blue rockfish,Sebastes
+Sebastes mystinus,Sebastidae,habitat_reef,0.103740039,10603.42768,680000,Perciformes/Scorpaenoidei,Actinopteri,61,reef-associated,2.71,NA,0.036716,Blue rockfish,Sebastes
+Sebastes paucispinis,Sebastidae,habitat_reef,0.106073465,38322.61562,732500,Perciformes/Scorpaenoidei,Actinopteri,91,reef-associated,6.06E-04,NA,NA,Bocaccio rockfish,Sebastes
+Sebastes pinniger,Sebastidae,habitat_reef,0.038909064,155931.9959,487500,Perciformes/Scorpaenoidei,Actinopteri,76,demersal,6.56E-04,NA,NA,Canary rockfish,Sebastes
+Sebastes polyspinis,Sebastidae,habitat_benthic,0.050194328,1036722.382,1407500,Perciformes/Scorpaenoidei,Actinopteri,41,demersal,3.42,NA,NA,Northern rockfish,Sebastes
+Sebastes ruberrimus,Sebastidae,habitat_reef,0.035907951,6796.964066,820000,Perciformes/Scorpaenoidei,Actinopteri,104,reef-associated,4.43,NA,NA,Yelloweye rockfish,Sebastes
+Sebastes rufus,Sebastidae,habitat_benthic,0.085905332,28652.51714,112500,Perciformes/Scorpaenoidei,Actinopteri,54,demersal,3.764736842,NA,NA,Bank rockfish,Sebastes
+Sebastes variabilis,Sebastidae,habitat_benthic,0.083414729,132365.2559,2635000,Perciformes/Scorpaenoidei,Actinopteri,43.08000183,demersal,3.764736842,NA,NA,Light dusky rockfish,Sebastes
+Sebastolobus alascanus,Sebastidae,habitat_benthic,0.053976428,127463.0464,2282500,Perciformes/Scorpaenoidei,Actinopteri,80,demersal,3.62,EN,NA,Shortspine thornyhead,Sebastolobus
+Sebastolobus altivelis,Sebastidae,habitat_deep,0.094545411,106996.2033,1000000,Perciformes/Scorpaenoidei,Actinopteri,39,bathydemersal,3.62,NA,NA,Longspine thornyhead,Sebastolobus
+Sepia officinalis,Sepiidae,habitat_benthic,0.56,289347.5214,2815000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Acetes erythraeus,Sergestidae,habitat_coastal,1.19,1074.69916,7707500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Acetes japonicus,Sergestidae,habitat_coastal,1.19,907066.4941,7725000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Acanthistius brasilianus,Serranidae,habitat_benthic,0.392822614,43325.50972,772500,Perciformes/Serranoidei,Actinopteri,60,benthopelagic,6.93E-04,DD,NA,Argentine seabass,Acanthistius
+Aethaloperca rogaa,Serranidae,habitat_reef,0.392822614,161.7523983,10922500,Perciformes/Serranoidei,Actinopteri,60,reef-associated,7.25E-04,LC,NA,Redmouth grouper,Aethaloperca
+Caprodon longimanus,Serranidae,habitat_reef,0.392822614,18.2779701,1067500,Perciformes/Serranoidei,Actinopteri,55,reef-associated,6.77E-04,LC,NA,Pink maomao,Caprodon
+Centropristis striata,Serranidae,habitat_reef,0.390595485,48177.72024,632500,Perciformes/Serranoidei,Actinopteri,66,reef-associated,3.89,LC,3.75,Black seabass,Centropristis
+Cephalopholis fulva,Serranidae,habitat_reef,0.434585638,168.6480031,2405000,Perciformes/Serranoidei,Actinopteri,44,reef-associated,4.05,LC,NA,Coney,Cephalopholis
+Cephalopholis hemistiktos,Serranidae,territorial,0.369072173,1047.361541,852500,Perciformes/Serranoidei,Actinopteri,35,reef-associated,4.14,LC,1.10E-05,Yellowfin hind,Cephalopholis
+Cephalopholis miniata,Serranidae,territorial,0.453164741,990.2623918,11952500,Perciformes/Serranoidei,Actinopteri,50,reef-associated,4.29,LC,2.14E-04,Coral hind,Cephalopholis
+Epinephelus aeneus,Serranidae,migratory,0.173225323,5733.711363,1792500,Perciformes/Serranoidei,Actinopteri,120,demersal,6.94E-04,NT,NA,White grouper,Epinephelus
+Epinephelus chlorostigma,Serranidae,habitat_coastal,0.314979131,363.1224699,13235000,Perciformes/Serranoidei,Actinopteri,80,reef-associated,6.89E-04,LC,NA,Brownspotted grouper,Epinephelus
+Epinephelus fuscoguttatus,Serranidae,habitat_reef,0.269601411,144.5838132,9805000,Perciformes/Serranoidei,Actinopteri,120,reef-associated,7.15E-04,VU,NA,Brown-marbled grouper,Epinephelus
+Epinephelus goreensis,Serranidae,habitat_benthic,0.286760108,641.958191,562500,Perciformes/Serranoidei,Actinopteri,140,demersal,6.81E-04,NT,NA,Dungat grouper,Epinephelus
+Epinephelus morrhua,Serranidae,habitat_reef,0.270980627,204.5017043,9242500,Perciformes/Serranoidei,Actinopteri,90,reef-associated,6.86E-04,LC,NA,Comet grouper,Epinephelus
+Epinephelus multinotatus,Serranidae,habitat_reef,0.272952283,3257.873463,615000,Perciformes/Serranoidei,Actinopteri,100,reef-associated,6.67E-04,LC,NA,White-blotched grouper,Epinephelus
+Epinephelus polylepis,Serranidae,habitat_benthic,0.281408755,2055.955937,1007500,Perciformes/Serranoidei,Actinopteri,61,demersal,3.89,LC,NA,Smallscaled grouper,Epinephelus
+Epinephelus summana,Serranidae,habitat_reef,0.286760108,154.7495583,345000,Perciformes/Serranoidei,Actinopteri,52,reef-associated,3.89,LC,NA,Summan grouper,Epinephelus
+Epinephelus tauvina,Serranidae,habitat_reef,0.187076498,14708.16501,13810000,Perciformes/Serranoidei,Actinopteri,100,reef-associated,7.13E-04,DD,0.344,Greasy grouper,Epinephelus
+Lepidoperca pulchella,Serranidae,habitat_reef,0.392822614,205.853729,322500,Perciformes/Serranoidei,Actinopteri,28,demersal,NA,NA,NA,Orange perch,Lepidoperca
+Mycteroperca phenax,Serranidae,habitat_reef,0.21559573,154.0661309,1627500,Perciformes/Serranoidei,Actinopteri,107,reef-associated,4.47,DD,NA,Scamp,Mycteroperca
+Paralabrax humeralis,Serranidae,habitat_benthic,0.274989376,36474.70373,862500,Perciformes/Serranoidei,Actinopteri,54.5,benthopelagic,4.12,DD,NA,Peruvian rock seabass,Paralabrax
+Plectropomus areolatus,Serranidae,migratory,0.321726946,3094.997213,5310000,Perciformes/Serranoidei,Actinopteri,80,reef-associated,7.77E-04,VU,0.048,Squaretail coralgrouper,Plectropomus
+Plectropomus pessuliferus,Serranidae,habitat_reef,0.321726946,1961.340225,8977500,Perciformes/Serranoidei,Actinopteri,120,reef-associated,4.42,LC,NA,Roving coralgrouper,Plectropomus
+Serranus cabrilla,Serranidae,habitat_benthic,0.511028812,740.2557183,3617500,Perciformes/Serranoidei,Actinopteri,40,demersal,3.35,LC,0.77,Comber,Serranus
+Variola louti,Serranidae,habitat_reef,0.375052579,3312.079611,12655000,Perciformes/Serranoidei,Actinopteri,83,reef-associated,4.33,LC,NA,Yellow-edged lyretail,Variola
+Sicyonia brevirostris,Sicyoniidae,habitat_benthic,0.81,6510.202469,1497500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sicyonia ingentis,Sicyoniidae,habitat_benthic,0.81,179.8666667,240000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sillago sihama,Sillaginidae,habitat_coastal,0.712832445,3527.909001,9625000,Eupercaria/misc,Actinopteri,31,reef-associated,3.33,LC,NA,Silver sillago,Sillago
+Austroglossus microlepis,Soleidae,habitat_benthic,0.185580881,11375.11571,307500,Pleuronectiformes,Actinopteri,75,bathydemersal,6.01E-04,DD,NA,West coast sole,Austroglossus
+Austroglossus pectoralis,Soleidae,habitat_benthic,0.267643426,9694.211567,172500,Pleuronectiformes,Actinopteri,60,demersal,6.96E-04,NA,NA,Mud sole,Austroglossus
+Dicologlossa cuneata,Soleidae,habitat_benthic,0.218533515,33465.21927,1607500,Pleuronectiformes,Actinopteri,30,demersal,5.73E-04,LC,NA,Wedge sole,Dicologlossa
+Solea senegalensis,Soleidae,habitat_benthic,0.140517811,750.310577,920000,Pleuronectiformes,Actinopteri,60,demersal,5.61E-04,DD,0.717,Senegalese sole,Solea
+Solea senegalensis,Soleidae,habitat_benthic,0.140517811,750.310577,920000,Pleuronectiformes,Actinopteri,60,demersal,5.61E-04,DD,0.88,Senegalese sole,Solea
+Solea senegalensis,Soleidae,habitat_benthic,0.140517811,750.310577,920000,Pleuronectiformes,Actinopteri,60,demersal,5.61E-04,DD,1.189,Senegalese sole,Solea
+Haliporoides diomedeae,Solenoceridae,habitat_benthic,0.96,310.9,380000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Haliporoides triarthrus,Solenoceridae,habitat_benthic,0.96,4816.604167,732500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pleoticus muelleri,Solenoceridae,habitat_benthic,1.19,69172.1042,800000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Acanthopagrus berda,Sparidae,habitat_coastal,0.547748847,141.2034009,6690000,Eupercaria/misc,Actinopteri,90,demersal,6.05E-04,LC,NA,Goldsilk seabream,Acanthopagrus
+Acanthopagrus bifasciatus,Sparidae,habitat_reef,0.48670769,1089.812244,815000,Eupercaria/misc,Actinopteri,36.20000076,reef-associated,5.86E-04,LC,NA,Twobar seabream,Acanthopagrus
+Archosargus probatocephalus,Sparidae,habitat_reef,0.609579594,6582.156033,2200000,Eupercaria/misc,Actinopteri,91,reef-associated,6.10E-04,LC,NA,Sheepshead,Archosargus
+Argyrops spinifer,Sparidae,habitat_coastal,0.494486133,11308.83887,13112500,Eupercaria/misc,Actinopteri,70,demersal,4.49,LC,NA,King soldier bream,Argyrops
+Argyrozona argyrozona,Sparidae,habitat_reef,0.338460279,2946.780058,115000,Eupercaria/misc,Actinopteri,90,benthopelagic,NA,NT,NA,Carpenter seabream,Argyrozona
+Cheimerius nufar,Sparidae,habitat_reef,0.437994781,141.3624149,3720000,Eupercaria/misc,Actinopteri,75,reef-associated,3.54,DD,NA,Santer seabream,Cheimerius
+Crenidens crenidens,Sparidae,habitat_coastal,0.518987796,22.55929735,1897500,Eupercaria/misc,Actinopteri,30,demersal,4.84E-04,LC,NA,Karanteen seabream,Crenidens
+Cymatoceps nasutus,Sparidae,habitat_coastal,0.189296689,107.9575144,135000,Eupercaria/misc,Actinopteri,150,demersal,6.15E-04,VU,NA,Black musselcracker,Cymatoceps
+Dentex angolensis,Sparidae,habitat_coastal,0.458551505,6022.049797,622500,Eupercaria/misc,Actinopteri,37,demersal,6.08E-04,NT,NA,Angolan dentex,Dentex
+Dentex congoensis,Sparidae,habitat_coastal,0.553307118,910.517836,485000,Eupercaria/misc,Actinopteri,50,demersal,6.41E-04,LC,NA,Congo dentex,Dentex
+Dentex dentex,Sparidae,habitat_reef,0.29493487,13138.0328,1307500,Eupercaria/misc,Actinopteri,100,benthopelagic,4.53,VU,NA,Common dentex,Dentex
+Dentex macrophthalmus,Sparidae,habitat_coastal,0.459706531,7598.044596,2190000,Eupercaria/misc,Actinopteri,65,benthopelagic,5.96E-04,LC,NA,Large-eye dentex,Dentex
+Diplodus annularis,Sparidae,habitat_coastal,0.781098688,3757.532876,1425000,Eupercaria/misc,Actinopteri,27.5,benthopelagic,3.64,LC,NA,Annular seabream,Diplodus
+Diplodus sargus,Sparidae,habitat_reef,0.54,9479,2037500,Eupercaria/misc,Actinopteri,45,demersal,3.38,LC,0.77,White seabream,Diplodus
+Diplodus vulgaris,Sparidae,habitat_reef,0.582831707,1123.212743,1907500,Eupercaria/misc,Actinopteri,45,benthopelagic,3.52,LC,0.033474667,Common two-banded seabream,Diplodus
+Diplodus vulgaris,Sparidae,habitat_reef,0.582831707,1123.212743,1907500,Eupercaria/misc,Actinopteri,45,benthopelagic,3.52,LC,0.54,Common two-banded seabream,Diplodus
+Lithognathus mormyrus,Sparidae,habitat_reef,0.517022487,15943.68564,2035000,Eupercaria/misc,Actinopteri,55,demersal,5.91E-04,LC,NA,Sand steenbras,Lithognathus
+Pagellus acarne,Sparidae,habitat_reef,0.478222754,12714.68568,2185000,Eupercaria/misc,Actinopteri,36,benthopelagic,3.81,LC,NA,Axillary seabream,Pagellus
+Pagellus bellottii,Sparidae,habitat_reef,0.677967137,39137.32053,717500,Eupercaria/misc,Actinopteri,42,demersal,6.22E-04,LC,NA,Red pandora,Pagellus
+Pagellus bogaraveo,Sparidae,habitat_reef,0.317996793,27771.31018,2387500,Eupercaria/misc,Actinopteri,70,benthopelagic,4.21,NT,NA,Blackspot seabream,Pagellus
+Pagellus erythrinus,Sparidae,habitat_reef,0.467310419,54406.52942,2127500,Eupercaria/misc,Actinopteri,60,benthopelagic,3.48,LC,NA,Common pandora,Pagellus
+Pagrus auratus,Sparidae,habitat_reef,0.212995064,308915.0836,1832500,Eupercaria/misc,Actinopteri,130,reef-associated,3.59,NA,0.0555,Silver seabream,Pagrus
+Petrus rupestris,Sparidae,migratory,0.257114227,86.45184772,70000,Eupercaria/misc,Actinopteri,200,demersal,7.77E-04,EN,NA,Red steenbras,Petrus
+Pterogymnus laniarius,Sparidae,habitat_reef,0.38424962,11543.00686,180000,Eupercaria/misc,Actinopteri,45,benthopelagic,6.20E-04,LC,NA,Panga seabream,Pterogymnus
+Rhabdosargus globiceps,Sparidae,habitat_reef,0.441178878,452.4967304,235000,Eupercaria/misc,Actinopteri,65,benthopelagic,3.04,VU,NA,White stumpnose,Rhabdosargus
+Rhabdosargus haffara,Sparidae,habitat_reef,0.560764579,9449.676744,992500,Eupercaria/misc,Actinopteri,35,reef-associated,6.05E-04,LC,NA,Haffara seabream,Rhabdosargus
+Stenotomus chrysops,Sparidae,habitat_reef,0.347529243,268516.2125,602500,Eupercaria/misc,Actinopteri,46,demersal,3.82,NT,NA,Scup,Stenotomus
+Sphyraena barracuda,Sphyraenidae,habitat_coastal,0.282732218,48650.52905,16007500,Carangaria/misc,Actinopteri,200,reef-associated,4.49,LC,1.39,Great barracuda,Sphyraena
+Sphyraena barracuda,Sphyraenidae,habitat_coastal,0.282732218,48650.52905,16007500,Carangaria/misc,Actinopteri,200,reef-associated,4.49,LC,3.69,Great barracuda,Sphyraena
+Sphyraena jello,Sphyraenidae,habitat_coastal,0.597620596,1405.594128,12932500,Carangaria/misc,Actinopteri,150,reef-associated,4.5,NA,NA,Pickhandle barracuda,Sphyraena
+Sphyraena obtusata,Sphyraenidae,habitat_coastal,0.681157357,272.2131651,13422500,Carangaria/misc,Actinopteri,55,reef-associated,4.5,NA,NA,Obtuse barracuda,Sphyraena
+Sphyraena sphyraena,Sphyraenidae,habitat_coastal,0.488918336,355.4622256,2112500,Carangaria/misc,Actinopteri,165,pelagic-neritic,6.98E-04,LC,NA,European barracuda,Sphyraena
+Sphyrna lewini,Sphyrnidae,migratory,0.060196242,1665.951176,154935000,Carcharhiniformes,Elasmobranchii,430,pelagic-oceanic,4.08,EN,NA,Scalloped hammerhead,Sphyrna
+Sphyrna zygaena,Sphyrnidae,migratory,0.114537904,782.1340932,186642500,Carcharhiniformes,Elasmobranchii,500,pelagic-oceanic,4.94,VU,NA,Smooth hammerhead,Sphyrna
+Squalus acanthias,Squalidae,migratory,0.044399483,4539658.017,7900000,Squaliformes,Elasmobranchii,95,benthopelagic,4.37,VU,NA,Picked dogfish,Squalus
+Squalus suckleyi,Squalidae,migratory,0.023825906,142366.0464,2047500,Squaliformes,Elasmobranchii,140,benthopelagic,4.244,LC,NA,Pacific spiny dogfish,Squalus
+Squatina argentina,Squatinidae,habitat_benthic,0.100586599,279970.9344,380000,Squatiniformes,Elasmobranchii,170,demersal,4.11,EN,NA,Argentine angelshark,Squatina
+Squatina californica,Squatinidae,habitat_benthic,0.075553373,8857.049935,415000,Squatiniformes,Elasmobranchii,152,demersal,4.14,NT,NA,Pacific angelshark,Squatina
+Squilla mantis,Squillidae,sedentary,0.56,24487.9972,1820000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pampus argenteus,Stromateidae,habitat_coastal,0.666219294,220639.9265,7610000,Scombriformes,Actinopteri,60,benthopelagic,3.3,NA,NA,Silver pomfret,Pampus
+Peprilus paru,Stromateidae,habitat_coastal,0.911406922,1395.855099,2995000,Scombriformes,Actinopteri,30,benthopelagic,4.5,LC,NA,American harvestfish,Peprilus
+Peprilus triacanthus,Stromateidae,pelagic,0.700336418,217000.8587,1105000,Scombriformes,Actinopteri,30,benthopelagic,3.91,NA,NA,Atlantic butterfish,Peprilus
+Stromateus brasiliensis,Stromateidae,pelagic,0.838796982,1481.297651,1062500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Stromateus fiatola,Stromateidae,pelagic,0.838796982,9289.599466,1900000,Scombriformes,Actinopteri,50,benthopelagic,6.96E-04,LC,NA,Blue butterfish,Stromateus
+Diastobranchus capensis,Synaphobranchidae,habitat_deep,0.367639439,2.752697054,3097500,Anguilliformes,Actinopteri,180,bathydemersal,7.77E-04,NA,NA,Basketwork eel,Diastobranchus
+Harpadon nehereus,Synodontidae,habitat_benthic,0.452219992,1686496.541,7832500,Aulopiformes,Actinopteri,40,benthopelagic,7.05E-04,NA,NA,Bombay-duck,Harpadon
+Saurida tumbil,Synodontidae,habitat_benthic,0.476043014,158872.8115,11872500,Aulopiformes,Actinopteri,60,reef-associated,4.4,LC,NA,Greater lizardfish,Saurida
+Saurida undosquamis,Synodontidae,habitat_benthic,0.593538247,839.292165,6290000,Aulopiformes,Actinopteri,50,reef-associated,4.46,LC,NA,Brushtooth lizardfish,Saurida
+Pelates quadrilineatus,Terapontidae,habitat_coastal,0.814152596,25.39081752,10432500,Centrarchiformes,Actinopteri,30,reef-associated,3.59,NA,NA,Fourlined terapon,Pelates
+Hoplostethus atlanticus,Trachichthyidae,sedentary,0.161165492,184845.7687,9397500,Trachichthyiformes,Actinopteri,75,bathypelagic,4.25,NA,NA,Orange roughy,Hoplostethus
+Trachipterus arcticus,Trachipteridae,habitat_deep,0.142305137,10.93425039,10997500,Lampriformes,Actinopteri,300,bathypelagic,7.77E-04,NA,NA,Dealfish,Trachipterus
+Galeorhinus galeus,Triakidae,hms,0.04309589,60630.74761,9010000,Carcharhiniformes,Elasmobranchii,193,benthopelagic,4.34,VU,NA,Tope shark,Galeorhinus
+Mustelus antarcticus,Triakidae,migratory,0.090020156,82313.47681,1092500,Carcharhiniformes,Elasmobranchii,157,demersal,7.69E-04,LC,NA,Gummy shark,Mustelus
+Mustelus asterias,Triakidae,habitat_coastal,0.132933458,676.0675711,2710000,Carcharhiniformes,Elasmobranchii,140,demersal,3.62,LC,NA,Starry smooth-hound,Mustelus
+Mustelus lenticulatus,Triakidae,migratory,0.100742592,67720.43334,837500,Carcharhiniformes,Elasmobranchii,125,demersal,3.51,LC,NA,Spotted estuary smooth-hound,Mustelus
+Mustelus mustelus,Triakidae,habitat_coastal,0.13188713,20614.71813,3642500,Carcharhiniformes,Elasmobranchii,200,demersal,4.26,VU,NA,Smooth-hound,Mustelus
+Mustelus schmitti,Triakidae,habitat_coastal,0.147496541,218155.9765,242500,Carcharhiniformes,Elasmobranchii,92,demersal,3.59,EN,NA,Narrownose smooth-hound,Mustelus
+Aphanopus carbo,Trichiuridae,deep,0.346089063,84676.53886,2627500,Scombriformes,Actinopteri,151,bathypelagic,7.74E-04,NA,NA,Black scabbardfish,Aphanopus
+Lepidopus caudatus,Trichiuridae,habitat_deep,0.292513559,223407.6131,3607500,Scombriformes,Actinopteri,210,benthopelagic,3.82,DD,NA,Silver scabbardfish,Lepidopus
+Trichiurus lepturus,Trichiuridae,habitat_coastal,0.583280022,25390267.52,17082500,Scombriformes,Actinopteri,234,benthopelagic,4.42,LC,NA,Largehead hairtail,Trichiurus
+Arctoscopus japonicus,Trichodontidae,habitat_benthic,0.630179269,108251.2158,1677500,Perciformes/Uranoscopoidei,Actinopteri,30,bathydemersal,6.06E-04,NA,NA,Japanese sandfish,Arctoscopus
+Chelidonichthys capensis,Triglidae,habitat_benthic,0.277318922,8389.892709,515000,Perciformes/Scorpaenoidei,Actinopteri,75,demersal,4.1,LC,NA,Cape gurnard,Chelidonichthys
+Chelidonichthys kumu,Triglidae,habitat_benthic,0.230796914,66428.5313,4697500,Perciformes/Scorpaenoidei,Actinopteri,60,demersal,6.36E-04,LC,NA,Bluefin gurnard,Chelidonichthys
+Chelidonichthys lucerna,Triglidae,habitat_benthic,0.345644436,31757.21311,2402500,Perciformes/Scorpaenoidei,Actinopteri,75.09999847,demersal,3.98,LC,NA,Tub gurnard,Chelidonichthys
+Eutrigla gurnardus,Triglidae,habitat_benthic,0.181531455,147714.1468,2227500,Perciformes/Scorpaenoidei,Actinopteri,60,demersal,3.87,NA,NA,Grey gurnard,Eutrigla
+Pterygotrigla polyommata,Triglidae,habitat_benthic,0.388028988,1835.357723,1050000,Perciformes/Scorpaenoidei,Actinopteri,62,demersal,NA,NA,NA,Latchet,Pterygotrigla
+Turbo cornutus,Turbinidae,sedentary,1.19,41318.28235,342500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kathetostoma giganteum,Uranoscopidae,sedentary,0.286276548,8495.281979,747500,Perciformes/Uranoscopoidei,Actinopteri,90,demersal,7.27E-04,NA,NA,Giant stargazer,Kathetostoma
+Uranoscopus scaber,Uranoscopidae,sedentary,0.644695944,1454.422055,2260000,Perciformes/Uranoscopoidei,Actinopteri,40,demersal,7.57E-04,LC,NA,Stargazer,Uranoscopus
+Chamelea gallina,Veneridae,sedentary,0.5,698474.72,1152500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mercenaria mercenaria,Veneridae,sedentary,0.43,124461.9442,295000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ruditapes decussatus,Veneridae,sedentary,1.19,8513.442017,1797500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ruditapes philippinarum,Veneridae,sedentary,1.19,381657.0319,9087500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tivela mactroides,Veneridae,sedentary,1.18,10232.43729,1027500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Xiphias gladius,Xiphiidae,hms,0.315549819,1607020.835,266090000,Carangiformes,Actinopteri,455,pelagic-oceanic,4.53,LC,NA,Swordfish,Xiphias
+Zenopsis conchifer,Zeidae,habitat_reef,0.246372114,3095.415258,8547500,Zeiformes,Actinopteri,80,benthopelagic,4.5,LC,NA,Silvery John dory,Zenopsis
+Zeus faber,Zeidae,habitat_reef,0.213577785,218388.0506,10750000,Zeiformes,Actinopteri,90,benthopelagic,4.5,DD,NA,John dory,Zeus
+Zoarces viviparus,Zoarcidae,sedentary,0.330738753,431.8090904,927500,Perciformes/Zoarcoidei,Actinopteri,52,demersal,5.99E-04,NA,NA,Eelpout,Zoarces
+Trachysalambria curvirostris,Penaeidae,habitat_benthic,1.19,480050.121,13510000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Litopenaeus setiferus,Penaeidae,habitat_benthic,0.56,1060197.093,665000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Doryteuthis opalescens,Loliginidae,pelagic,0.93,721694.0559,230000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Doryteuthis gahi,Loliginidae,migratory,0.48,961200.3,1215000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Larimichthys crocea,Sciaenidae,habitat_coastal,0.601331042,464679.6398,1287500,Eupercaria/misc,Actinopteri,80,benthopelagic,6.43E-04,NA,NA,Large yellow croaker,Larimichthys
+Liza haematocheila,Mugilidae,habitat_coastal,0.29332534,1052958.998,132500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tegillarca granosa,Arcidae,sedentary,0.85,505954.3341,10465000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fenneropenaeus chinensis,Penaeidae,migratory,0.88,247472.5818,265000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fenneropenaeus merguiensis,Penaeidae,habitat_benthic,1.18,171116.9322,8580000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sebastes norvegicus,Sebastidae,habitat_benthic,0.057488971,957274.6049,9940000,Perciformes/Scorpaenoidei,Actinopteri,100,pelagic-oceanic,6.98E-04,NA,NA,Golden redfish,Sebastes
+Metacarcinus magister,Cancridae,habitat_coastal,0.57,153382.2386,490000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Doryteuthis pealeii,Loliginidae,migratory,0.705,329796.6865,1630000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pleuronectes quadrituberculatus,Pleuronectidae,habitat_benthic,0.120334472,1596669.955,2015000,Pleuronectiformes,Actinopteri,87,bathydemersal,3.59,NA,NA,Alaska plaice,Pleuronectes
+Pseudopleuronectes herzensteini,Pleuronectidae,habitat_benthic,0.483128298,114429.6126,427500,Pleuronectiformes,Actinopteri,50,demersal,3.465,NA,NA,Yellow striped flounder,Pseudopleuronectes
+Farfantepenaeus notialis,Penaeidae,habitat_benthic,0.46,63454.40544,2132500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Farfantepenaeus aztecus,Penaeidae,habitat_benthic,0.52,383429.7769,2997500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kajikia audax,Istiophoridae,pelagic,0.347408374,211745.0033,157757500,Carangiformes,Actinopteri,420,pelagic-oceanic,7.77E-04,NT,NA,Striped marlin,Kajikia
+Nemadactylus bergi,Cheilodactylidae,habitat_benthic,0.189455252,79880.58309,1332500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Leucoraja naevus,Rajidae,habitat_benthic,0.067479913,231593.3632,1812500,Rajiformes,Elasmobranchii,71,demersal,4.21,LC,NA,Cuckoo ray,Leucoraja
+Farfantepenaeus duorarum,Penaeidae,pelagic,0.51,89906.86275,1345000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Istiompax indica,Istiophoridae,hms,0.361545431,81885.01212,171002500,Carangiformes,Actinopteri,465,pelagic-oceanic,4.5,DD,NA,Black marlin,Istiompax
+Melicertus kerathurus,Penaeidae,habitat_benthic,0.57,18128.59649,1392500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Farfantepenaeus californiensis,Penaeidae,habitat_benthic,0.92,11513.31739,1155000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Farfantepenaeus brevirostris,Penaeidae,habitat_benthic,0.55,15672.13818,482500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lithodes aequispinus,Lithodidae,habitat_benthic,0.57,23560.11228,1267500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Eleginus nawaga,Gadidae,habitat_coastal,0.379867916,17168.72556,195000,Gadiformes,Actinopteri,42,demersal,7.32E-04,NA,NA,Navaga,Eleginus
+Melicertus latisulcatus,Penaeidae,habitat_benthic,1.12,5298.535714,9835000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Parophrys vetulus,Pleuronectidae,migratory,0.313793044,65639.93815,1230000,Pleuronectiformes,Actinopteri,49,demersal,5.86E-04,NA,0.01,English sole,Parophrys
+Parophrys vetulus,Pleuronectidae,migratory,0.313793044,65639.93815,1230000,Pleuronectiformes,Actinopteri,49,demersal,5.86E-04,NA,0.044,English sole,Parophrys
+Amblyraja radiata,Rajidae,migratory,0.107515916,72849.51463,2705000,Rajiformes,Elasmobranchii,105,demersal,4.2,VU,NA,Starry ray,Amblyraja
+Chelidonichthys cuculus,Triglidae,habitat_benthic,0.230982835,32190.66906,3207500,Perciformes/Scorpaenoidei,Actinopteri,70,demersal,3.81,LC,NA,Red gurnard,Chelidonichthys
+Moolgarda seheli,Mugilidae,habitat_coastal,0.655286485,6271.998727,7642500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kajikia albida,Istiophoridae,hms,0.387272323,12797.19646,48362500,Carangiformes,Actinopteri,300,pelagic-oceanic,4.49,VU,NA,Atlantic white marlin,Kajikia
+Litopenaeus occidentalis,Penaeidae,habitat_benthic,0.89,3042.359551,267500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zenopsis nebulosa,Zeidae,deep,0.198679481,18348.48763,6145000,Zeiformes,Actinopteri,70,benthopelagic,7.58E-04,NA,NA,Mirror dory,Zenopsis
+Netuma thalassinus,Ariidae,habitat_coastal,0.31,6650.593548,12022500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Litopenaeus vannamei,Penaeidae,habitat_benthic,0.7,2378.222857,6652500,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Meuschenia scaber,Monacanthidae,habitat_coastal,1.031915321,1370.926443,1115000,Tetraodontiformes,Actinopteri,31,demersal,3.11,LC,NA,Velvet leatherjacket,Meuschenia
+Dipturus batis,Rajidae,habitat_benthic,0.066409282,16228.27363,2040000,Rajiformes,Elasmobranchii,285,demersal,3.52,CR,NA,Blue skate,Dipturus
+Alosa immaculata,Clupeidae,migratory,0.989034626,984.1313685,90000,Clupeiformes,Actinopteri,39,pelagic-neritic,3.98,VU,NA,Pontic shad,Alosa
+Conger orbignianus,Congridae,habitat_benthic,0.269522379,3468.19438,515000,Anguilliformes,Actinopteri,112,demersal,6.43E-04,LC,NA,Argentine conger,Conger
+Acanthopagrus schlegelii,Sparidae,habitat_coastal,0.44458551,2274.073215,675000,Eupercaria/misc,Actinopteri,50,demersal,5.60E-04,NA,0.364,Blackhead seabream,Acanthopagrus
+Pegusa lascaris,Soleidae,habitat_benthic,0.191168732,4141.827964,2572500,Pleuronectiformes,Actinopteri,40,demersal,3.29,LC,NA,Sand sole,Pegusa
+Leucoraja circularis,Rajidae,habitat_benthic,0.108265278,7611.489253,2335000,Rajiformes,Elasmobranchii,120,demersal,6.05E-04,EN,NA,Sandy ray,Leucoraja
+Balistes capriscus,Balistidae,habitat_reef,0.824568385,919.7102554,5260000,Tetraodontiformes,Actinopteri,60,reef-associated,4.06,VU,0.0013065,Grey triggerfish,Balistes
+Hyporthodus flavolimbatus,Serranidae,habitat_benthic,0.175094567,8566.79922,2205000,Perciformes/Serranoidei,Actinopteri,115,demersal,6.60E-04,VU,NA,Yellowedge grouper,Hyporthodus
+Dipturus oxyrinchus,Rajidae,habitat_benthic,0.162442229,2751.698267,2827500,Rajiformes,Elasmobranchii,150,bathydemersal,3.5,NT,NA,Longnosed skate,Dipturus
+Leucoraja fullonica,Rajidae,habitat_benthic,0.108265278,3675.453547,2042500,Rajiformes,Elasmobranchii,120,bathydemersal,6.05E-04,VU,NA,Shagreen ray,Leucoraja
+Hyporthodus niveatus,Serranidae,habitat_reef,0.165514413,4588.700079,2735000,Perciformes/Serranoidei,Actinopteri,122,demersal,6.98E-04,VU,NA,Snowy grouper,Hyporthodus
+Pentaceros richardsoni,Pentacerotidae,habitat_benthic,0.392870269,854.3380003,3077500,Acropomatiformes,Actinopteri,56,pelagic-oceanic,6.05E-04,NA,NA,Pelagic armourhead,Pentaceros
+Trigloporus lastoviza,Triglidae,habitat_benthic,0.194942701,2298.95245,3120000,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Herklotsichthys quadrimaculatus,Clupeidae,habitat_coastal,1.740456307,44.00455196,9417500,Clupeiformes,Actinopteri,25,reef-associated,3.57,LC,NA,Bluestripe herring,Herklotsichthys
+Lepidonotothen squamifrons,Nototheniidae,habitat_benthic,0.233506431,171.421403,995000,Perciformes/Notothenioidei,Actinopteri,55,benthopelagic,6.03E-04,NA,NA,Grey rockcod,Lepidonotothen
+Hyporthodus nigritus,Serranidae,habitat_reef,0.138991562,245.8566514,2572500,Perciformes/Serranoidei,Actinopteri,230,demersal,6.86E-04,NT,NA,Warsaw grouper,Hyporthodus
+Hyporthodus mystacinus,Serranidae,habitat_deep,0.192928912,30.08361961,1890000,Perciformes/Serranoidei,Actinopteri,160,bathydemersal,4.58,LC,NA,Misty grouper,Hyporthodus

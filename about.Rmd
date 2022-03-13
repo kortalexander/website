@@ -6,6 +6,8 @@ title: "About me"
 library(here)
 ```
 
+![](grad_photo.JPG)
+
 ![](freedive.jpg)
 
 # Education and Career Interests

@@ -1,0 +1,77 @@
+---
+title: "Principal component analysis"
+description: |
+  Commercially important fish stocks
+date: 2022-03-13
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+# Overview
+
+This code performs a principal components analysis on a dataset that includes characteristics of commercially important fish stocks. Variables include population growth rate, carrying capacity, length, trophic level, and geographic range. Categorical variables like habitat characteristics and IUCN status are also in the dataset, but only quantitative variables will be used for this analysis. The PCA analysis will help to visualize the relationships between these variables.
+
+Data citation: emLab (paper to be published)
+
+# Setup
+
+```{r setup, include=TRUE, warning=FALSE, message=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+
+library(tidyverse)
+library(here)
+library(ggfortify)
+```
+
+# Data input and wrangling
+
+```{r}
+fish_data <- read_csv(here("data", "hr_rf_data_v3.csv")) %>% 
+  select(r_fin, kfin, geog_range, length, homerange, diet_troph3) %>% # select quantitative variables
+  drop_na()
+
+colnames(fish_data) <- c("Pop. growth rate", "Carrying capacity", "Geographic range", "Length", "Home range size", "Trophic level") # finalize variable names
+
+fish_pca <- fish_data %>% 
+  scale() %>% # rescale variables
+  prcomp() # run PCA
+```
+
+# PCA visualization
+
+```{r}
+autoplot(fish_pca,
+         loadings = TRUE,
+         loadings.label = TRUE,
+         loadings.colour = "black",
+         loadings.label.colour = "black",
+         loadings.label.vjust = -0.5) +
+  theme_minimal()
+```
+
+**Figure 1.** Biplot showing the results of principal components analysis (PCA) of fish stock characteristics. Each dot represents a fish stock, and each arrow represents a variable. Percentages next to axis labels indicate how much of the variance is captured by each principal component.
+
+```{r}
+sd_vec <- fish_pca$sdev
+var_vec <- sd_vec^2
+
+pc_names <- colnames(fish_pca$rotation)
+pct_expl_df <- data.frame(v = var_vec,
+                          pct_v = var_vec / sum(var_vec),
+                          pc = fct_inorder(pc_names)) %>% 
+  mutate(pct_lbl = paste0(round(pct_v * 100, 1), "%"))
+
+ggplot(pct_expl_df, aes(x = pc, y = v)) +
+  geom_col() +
+  geom_text(aes(label = pct_lbl), vjust = 0, nudge_y = 0.05) +
+  labs(x = "Principal component", y = "Variance explained")
+```
+
+**Figure 2.** Screeplot showing the variance captured by each of the six principal components. The first two together capture about 56% of the variance. Four principal components are needed to capture at least 80% of the variance.
+
+# PCA Summary
+- Based on the biplot of the first two principal components, fish length, home range size, geographic range, and trophic level are all positively correlated with each other, while showing little to no correlation with carrying capacity and population growth rate.
+- Most fish stocks are clustered together with relatively low values for all of the variables. There are a handful of outliers with very high values for the variables relative to the other fish stocks.
+- The screeplot shows that the first two principal components capture only about half the variation in the data. To reach a threshold of 80% variance captured, four principle components must be included. This indicates that the variables included in this analysis are relatively independent from one another.

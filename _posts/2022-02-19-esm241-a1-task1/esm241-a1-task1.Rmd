@@ -1,7 +1,7 @@
 ---
-title: "Mountain yellow-legged frogs in the southern Sierra Nevada"
+title: "Data visualization"
 description: |
-  Data visualization example
+  Mountain yellow-legged frogs in the southern Sierra Nevada
 date: 2022-02-19
 output:
   distill::distill_article:

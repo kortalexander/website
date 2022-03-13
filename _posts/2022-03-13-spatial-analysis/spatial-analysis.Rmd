@@ -1,0 +1,101 @@
+---
+title: "Spatial analysis"
+description: |
+  California oil spills
+date: 2022-03-13
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# Overview
+
+This code visualizes and analyzes spatial data of oil spill events in California in 2008, recorded by the California Department of Fish and Wildlife. An interactive map, a chloropleth map, and a g-function plot are created.
+
+Data citation: California Department of Fish and Wildlife, Office of Spill Prevention and Response. 2020. Oil Spill Incident Tracking [ds394]. https://map.dfg.ca.gov/metadata/ds0394.html
+
+# Setup
+
+```{r setup, include=TRUE, warning=FALSE, message=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+
+library(tidyverse)
+library(here)
+library(broom)
+library(sf)
+library(tmap)
+library(spatstat)
+library(maptools)
+```
+
+# Data input
+
+```{r}
+# read in county shape file
+counties_sf <- read_sf(here("data", "CA_Counties_TIGER2016.shp")) %>% 
+  janitor::clean_names() %>% 
+  select(name)
+
+# read in oil spills shape file, convert to 3857 projection
+oil_spills_sf <- read_sf(here("data", "ds394", "ds394.shp")) %>% 
+  janitor::clean_names() %>% 
+  st_transform(3857)
+```
+
+# Interactive map
+
+```{r}
+tmap_mode(mode = "view")
+tm_shape(counties_sf) +
+  tm_borders(col = "black") +
+  tm_shape(oil_spills_sf) +
+  tm_dots()
+```
+
+**Figure 1.** Exploratory, interactive map of oil spill events in California in 2008, along with California counties. Oil spills are concentrated along the coastline and especially in the Los Angeles and San Francisco Bay areas.
+
+# Spatial join and summarize
+
+```{r}
+merged <- counties_sf %>% 
+  st_join(oil_spills_sf) %>% 
+  group_by(name) %>% 
+  summarize(spill_count = n())
+```
+
+# Static map
+
+```{r}
+ggplot(merged) +
+  geom_sf(aes(fill = spill_count)) +
+  scale_fill_distiller(palette = "YlOrRd", direction = 1) +
+  labs(fill = "Number of oil spills") +
+  theme_minimal()
+```
+
+**Figure 2.** Oil spills in California in 2008 by county. The greatest number of oil spills occurred in Los Angeles County.
+
+# Point pattern analysis
+
+```{r}
+spills_sp <- as(oil_spills_sf, "Spatial")
+spills_ppp <- as(spills_sp, "ppp")
+
+counties_sp <- as(counties_sf, "Spatial")
+counties_win <- as(counties_sp, "owin")
+
+spills_full <- ppp(spills_ppp$x, spills_ppp$y, window = counties_win)
+
+r_vec <- seq(0, 50000, by = 1000)
+
+gfunction <- envelope(spills_full, fun = Gest, r = r_vec, nsim = 10, nrank = 2)
+
+gfunction_long <- gfunction %>% 
+  as.data.frame() %>% 
+  pivot_longer(cols = obs:hi, names_to = "model", values_to = "g_val")
+
+ggplot(data = gfunction_long, aes(x = r, y = g_val, color = model)) +
+  geom_line()
+```
+
+**Figure 3.** G-function plot showing point pattern analysis of oil spill events in California. Oil spill events are spatially clustered compared to complete spatial randomness.
