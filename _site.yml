@@ -10,7 +10,7 @@ navbar:
       href: index.html
     - text: "About me"
       href: about.html
-    - text: "Blog"
+    - text: "Projects"
       href: blog.html
     - text: "Resume"
       href: Resume.pdf
