@@ -1,6 +1,6 @@
 ---
 title: "Kort Alexander"
-image: "face.jpg"
+image: "profile_pic.JPG"
 site: distill::distill_website
 links:
   - label: LinkedIn
